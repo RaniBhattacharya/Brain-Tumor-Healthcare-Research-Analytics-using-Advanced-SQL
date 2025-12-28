@@ -1,0 +1,1001 @@
+trial_record_id,patient_id,trial_name,trial_phase,enrolled,enroll_date,trial_outcome
+TR500000,P100000,CAR-T Glioma Study,Phase I,True,2020-07-03,Completed
+TR500001,P100001,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500002,P100002,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500003,P100003,Standard of Care Registry,Phase II,False,,Completed
+TR500004,P100004,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500005,P100005,CAR-T Glioma Study,Not in Trial,True,2020-09-20,Withdrawn
+TR500006,P100006,CAR-T Glioma Study,Not in Trial,True,2024-05-02,Withdrawn
+TR500007,P100007,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500008,P100008,Immuno-GBM Study,Phase III,False,,Withdrawn
+TR500009,P100009,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500010,P100010,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500011,P100011,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500012,P100012,Immuno-GBM Study,Phase IV,False,,Completed
+TR500013,P100013,Immuno-GBM Study,Observational,True,2021-03-08,Withdrawn
+TR500014,P100014,CAR-T Glioma Study,Phase II,False,,Completed
+TR500015,P100015,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500016,P100016,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500017,P100017,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500018,P100018,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500019,P100019,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500020,P100020,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500021,P100021,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500022,P100022,CAR-T Glioma Study,Not in Trial,True,2023-09-01,Not Applicable
+TR500023,P100023,mRNA Personalized Vaccine Study,Phase II,True,2022-05-20,Withdrawn
+TR500024,P100024,EGFR-targeted Study,Not in Trial,True,2024-07-10,Not Applicable
+TR500025,P100025,Standard of Care Registry,Phase II,False,,Withdrawn
+TR500026,P100026,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500027,P100027,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500028,P100028,Standard of Care Registry,Observational,False,,Withdrawn
+TR500029,P100029,Standard of Care Registry,Observational,False,,Not Applicable
+TR500030,P100030,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500031,P100031,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500032,P100032,Standard of Care Registry,Observational,False,,Withdrawn
+TR500033,P100033,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500034,P100034,EGFR-targeted Study,Not in Trial,True,2021-07-01,Completed
+TR500035,P100035,Immuno-GBM Study,Phase I,False,,Not Applicable
+TR500036,P100036,Immuno-GBM Study,Phase I,False,,Ongoing
+TR500037,P100037,EGFR-targeted Study,Phase II,True,2024-02-21,Not Applicable
+TR500038,P100038,EGFR-targeted Study,Phase I,True,2020-07-12,Completed
+TR500039,P100039,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500040,P100040,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500041,P100041,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500042,P100042,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500043,P100043,Standard of Care Registry,Observational,False,,Ongoing
+TR500044,P100044,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500045,P100045,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500046,P100046,Standard of Care Registry,Phase II,True,2021-06-10,Ongoing
+TR500047,P100047,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500048,P100048,EGFR-targeted Study,Phase III,False,,Completed
+TR500049,P100049,mRNA Personalized Vaccine Study,Not in Trial,True,2023-03-20,Not Applicable
+TR500050,P100050,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500051,P100051,Immuno-GBM Study,Phase I,False,,Not Applicable
+TR500052,P100052,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500053,P100053,Immuno-GBM Study,Observational,True,2024-05-20,Not Applicable
+TR500054,P100054,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500055,P100055,mRNA Personalized Vaccine Study,Phase III,False,,Ongoing
+TR500056,P100056,Standard of Care Registry,Phase I,True,2021-10-26,Completed
+TR500057,P100057,Standard of Care Registry,Observational,False,,Not Applicable
+TR500058,P100058,EGFR-targeted Study,Phase III,False,,Withdrawn
+TR500059,P100059,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500060,P100060,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500061,P100061,CAR-T Glioma Study,Observational,False,,Completed
+TR500062,P100062,Standard of Care Registry,Phase II,True,2022-03-09,Withdrawn
+TR500063,P100063,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500064,P100064,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500065,P100065,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500066,P100066,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500067,P100067,EGFR-targeted Study,Observational,False,,Completed
+TR500068,P100068,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500069,P100069,mRNA Personalized Vaccine Study,Not in Trial,True,2023-02-13,Not Applicable
+TR500070,P100070,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500071,P100071,Immuno-GBM Study,Phase II,True,2022-03-21,Completed
+TR500072,P100072,EGFR-targeted Study,Phase I,True,2021-08-15,Completed
+TR500073,P100073,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500074,P100074,CAR-T Glioma Study,Phase II,True,2025-01-18,Withdrawn
+TR500075,P100075,Standard of Care Registry,Phase I,False,,Ongoing
+TR500076,P100076,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500077,P100077,CAR-T Glioma Study,Phase II,False,,Completed
+TR500078,P100078,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500079,P100079,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500080,P100080,EGFR-targeted Study,Phase II,True,2024-08-26,Withdrawn
+TR500081,P100081,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500082,P100082,CAR-T Glioma Study,Phase II,False,,Not Applicable
+TR500083,P100083,Immuno-GBM Study,Phase II,False,,Completed
+TR500084,P100084,EGFR-targeted Study,Observational,False,,Ongoing
+TR500085,P100085,CAR-T Glioma Study,Phase III,False,,Ongoing
+TR500086,P100086,Radiomics Biomarker Trial,Phase I,True,2023-03-11,Not Applicable
+TR500087,P100087,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500088,P100088,Radiomics Biomarker Trial,Phase III,True,2022-07-26,Withdrawn
+TR500089,P100089,Radiomics Biomarker Trial,Not in Trial,True,2022-08-25,Completed
+TR500090,P100090,Immuno-GBM Study,Phase I,False,,Ongoing
+TR500091,P100091,CAR-T Glioma Study,Phase I,False,,Completed
+TR500092,P100092,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500093,P100093,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500094,P100094,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500095,P100095,Immuno-GBM Study,Phase II,True,2024-03-13,Ongoing
+TR500096,P100096,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500097,P100097,CAR-T Glioma Study,Not in Trial,True,2025-05-15,Withdrawn
+TR500098,P100098,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500099,P100099,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500100,P100100,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500101,P100101,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500102,P100102,Immuno-GBM Study,Phase II,True,2020-10-25,Withdrawn
+TR500103,P100103,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500104,P100104,mRNA Personalized Vaccine Study,Phase II,False,,Completed
+TR500105,P100105,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500106,P100106,Standard of Care Registry,Observational,False,,Ongoing
+TR500107,P100107,CAR-T Glioma Study,Phase II,False,,Completed
+TR500108,P100108,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500109,P100109,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500110,P100110,Immuno-GBM Study,Phase III,False,,Completed
+TR500111,P100111,Immuno-GBM Study,Observational,False,,Completed
+TR500112,P100112,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500113,P100113,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500114,P100114,Standard of Care Registry,Phase II,False,,Withdrawn
+TR500115,P100115,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500116,P100116,mRNA Personalized Vaccine Study,Phase IV,False,,Completed
+TR500117,P100117,EGFR-targeted Study,Observational,True,2021-09-12,Completed
+TR500118,P100118,mRNA Personalized Vaccine Study,Phase III,False,,Not Applicable
+TR500119,P100119,mRNA Personalized Vaccine Study,Phase II,True,2023-08-11,Completed
+TR500120,P100120,mRNA Personalized Vaccine Study,Phase III,False,,Withdrawn
+TR500121,P100121,Standard of Care Registry,Phase II,False,,Completed
+TR500122,P100122,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500123,P100123,Standard of Care Registry,Not in Trial,True,2025-04-23,Ongoing
+TR500124,P100124,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500125,P100125,Standard of Care Registry,Observational,False,,Ongoing
+TR500126,P100126,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500127,P100127,Immuno-GBM Study,Phase III,False,,Completed
+TR500128,P100128,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500129,P100129,mRNA Personalized Vaccine Study,Phase II,True,2022-11-05,Ongoing
+TR500130,P100130,Standard of Care Registry,Phase I,False,,Ongoing
+TR500131,P100131,CAR-T Glioma Study,Not in Trial,True,2023-03-06,Completed
+TR500132,P100132,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500133,P100133,CAR-T Glioma Study,Phase I,False,,Completed
+TR500134,P100134,mRNA Personalized Vaccine Study,Observational,False,,Withdrawn
+TR500135,P100135,Standard of Care Registry,Observational,True,2024-08-28,Ongoing
+TR500136,P100136,EGFR-targeted Study,Not in Trial,True,2021-09-12,Ongoing
+TR500137,P100137,EGFR-targeted Study,Phase I,True,2024-04-08,Not Applicable
+TR500138,P100138,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500139,P100139,Radiomics Biomarker Trial,Not in Trial,True,2022-09-06,Ongoing
+TR500140,P100140,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500141,P100141,EGFR-targeted Study,Phase II,True,2022-09-24,Withdrawn
+TR500142,P100142,CAR-T Glioma Study,Phase III,False,,Ongoing
+TR500143,P100143,Standard of Care Registry,Not in Trial,False,,Completed
+TR500144,P100144,EGFR-targeted Study,Phase III,False,,Not Applicable
+TR500145,P100145,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500146,P100146,mRNA Personalized Vaccine Study,Phase II,True,2022-11-04,Not Applicable
+TR500147,P100147,mRNA Personalized Vaccine Study,Phase II,False,,Withdrawn
+TR500148,P100148,mRNA Personalized Vaccine Study,Not in Trial,True,2021-07-17,Withdrawn
+TR500149,P100149,Radiomics Biomarker Trial,Not in Trial,True,2022-09-25,Ongoing
+TR500150,P100150,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500151,P100151,CAR-T Glioma Study,Observational,True,2023-10-10,Withdrawn
+TR500152,P100152,mRNA Personalized Vaccine Study,Observational,False,,Completed
+TR500153,P100153,Radiomics Biomarker Trial,Observational,True,2021-03-12,Withdrawn
+TR500154,P100154,EGFR-targeted Study,Phase II,False,,Not Applicable
+TR500155,P100155,EGFR-targeted Study,Observational,False,,Completed
+TR500156,P100156,mRNA Personalized Vaccine Study,Phase III,True,2020-11-16,Completed
+TR500157,P100157,Radiomics Biomarker Trial,Not in Trial,True,2023-06-03,Completed
+TR500158,P100158,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500159,P100159,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500160,P100160,mRNA Personalized Vaccine Study,Phase II,False,,Completed
+TR500161,P100161,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500162,P100162,EGFR-targeted Study,Phase II,False,,Not Applicable
+TR500163,P100163,CAR-T Glioma Study,Not in Trial,True,2020-04-23,Not Applicable
+TR500164,P100164,CAR-T Glioma Study,Phase II,True,2024-04-19,Withdrawn
+TR500165,P100165,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500166,P100166,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500167,P100167,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500168,P100168,Radiomics Biomarker Trial,Phase III,False,,Completed
+TR500169,P100169,mRNA Personalized Vaccine Study,Phase IV,False,,Ongoing
+TR500170,P100170,mRNA Personalized Vaccine Study,Observational,True,2024-01-20,Not Applicable
+TR500171,P100171,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500172,P100172,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500173,P100173,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500174,P100174,Standard of Care Registry,Observational,True,2021-12-02,Withdrawn
+TR500175,P100175,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500176,P100176,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500177,P100177,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500178,P100178,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500179,P100179,Radiomics Biomarker Trial,Phase III,False,,Withdrawn
+TR500180,P100180,mRNA Personalized Vaccine Study,Phase III,False,,Withdrawn
+TR500181,P100181,Immuno-GBM Study,Not in Trial,True,2024-11-18,Withdrawn
+TR500182,P100182,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500183,P100183,Radiomics Biomarker Trial,Observational,False,,Not Applicable
+TR500184,P100184,Standard of Care Registry,Phase II,True,2025-06-12,Withdrawn
+TR500185,P100185,Immuno-GBM Study,Phase I,False,,Completed
+TR500186,P100186,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500187,P100187,EGFR-targeted Study,Not in Trial,True,2020-05-03,Withdrawn
+TR500188,P100188,Immuno-GBM Study,Observational,False,,Withdrawn
+TR500189,P100189,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500190,P100190,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500191,P100191,EGFR-targeted Study,Not in Trial,True,2020-11-20,Ongoing
+TR500192,P100192,EGFR-targeted Study,Phase III,False,,Completed
+TR500193,P100193,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500194,P100194,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500195,P100195,EGFR-targeted Study,Observational,False,,Withdrawn
+TR500196,P100196,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500197,P100197,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500198,P100198,Immuno-GBM Study,Observational,False,,Ongoing
+TR500199,P100199,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500200,P100200,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500201,P100201,Standard of Care Registry,Phase II,False,,Completed
+TR500202,P100202,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500203,P100203,Radiomics Biomarker Trial,Observational,True,2021-09-23,Completed
+TR500204,P100204,EGFR-targeted Study,Observational,False,,Ongoing
+TR500205,P100205,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500206,P100206,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500207,P100207,CAR-T Glioma Study,Phase I,True,2021-07-09,Completed
+TR500208,P100208,mRNA Personalized Vaccine Study,Not in Trial,True,2020-02-25,Completed
+TR500209,P100209,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500210,P100210,Standard of Care Registry,Observational,False,,Completed
+TR500211,P100211,CAR-T Glioma Study,Phase II,False,,Not Applicable
+TR500212,P100212,EGFR-targeted Study,Observational,False,,Ongoing
+TR500213,P100213,EGFR-targeted Study,Observational,True,2025-02-13,Ongoing
+TR500214,P100214,Immuno-GBM Study,Observational,True,2025-04-10,Not Applicable
+TR500215,P100215,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500216,P100216,Immuno-GBM Study,Phase II,True,2024-06-25,Withdrawn
+TR500217,P100217,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500218,P100218,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500219,P100219,mRNA Personalized Vaccine Study,Not in Trial,True,2022-01-08,Withdrawn
+TR500220,P100220,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500221,P100221,Immuno-GBM Study,Phase I,False,,Not Applicable
+TR500222,P100222,mRNA Personalized Vaccine Study,Not in Trial,True,2024-02-03,Withdrawn
+TR500223,P100223,Radiomics Biomarker Trial,Observational,True,2023-03-02,Ongoing
+TR500224,P100224,Radiomics Biomarker Trial,Observational,True,2023-11-24,Not Applicable
+TR500225,P100225,EGFR-targeted Study,Not in Trial,True,2024-07-01,Completed
+TR500226,P100226,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500227,P100227,CAR-T Glioma Study,Phase IV,True,2020-12-19,Completed
+TR500228,P100228,Standard of Care Registry,Not in Trial,True,2024-07-15,Completed
+TR500229,P100229,Radiomics Biomarker Trial,Phase II,True,2020-03-02,Not Applicable
+TR500230,P100230,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500231,P100231,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500232,P100232,mRNA Personalized Vaccine Study,Observational,True,2020-02-28,Not Applicable
+TR500233,P100233,CAR-T Glioma Study,Observational,True,2020-04-05,Not Applicable
+TR500234,P100234,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500235,P100235,mRNA Personalized Vaccine Study,Observational,True,2025-01-11,Completed
+TR500236,P100236,Immuno-GBM Study,Observational,True,2025-06-06,Not Applicable
+TR500237,P100237,EGFR-targeted Study,Phase II,False,,Not Applicable
+TR500238,P100238,Standard of Care Registry,Observational,False,,Ongoing
+TR500239,P100239,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500240,P100240,mRNA Personalized Vaccine Study,Phase I,False,,Ongoing
+TR500241,P100241,EGFR-targeted Study,Phase II,False,,Completed
+TR500242,P100242,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500243,P100243,Standard of Care Registry,Phase I,True,2020-07-13,Not Applicable
+TR500244,P100244,Immuno-GBM Study,Phase I,False,,Completed
+TR500245,P100245,Standard of Care Registry,Phase I,True,2023-09-12,Withdrawn
+TR500246,P100246,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500247,P100247,mRNA Personalized Vaccine Study,Not in Trial,True,2022-05-14,Withdrawn
+TR500248,P100248,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500249,P100249,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500250,P100250,Immuno-GBM Study,Not in Trial,True,2020-10-19,Ongoing
+TR500251,P100251,Radiomics Biomarker Trial,Not in Trial,True,2022-03-23,Withdrawn
+TR500252,P100252,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500253,P100253,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500254,P100254,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500255,P100255,Standard of Care Registry,Phase II,True,2021-07-26,Withdrawn
+TR500256,P100256,mRNA Personalized Vaccine Study,Phase I,True,2021-11-29,Not Applicable
+TR500257,P100257,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500258,P100258,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500259,P100259,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500260,P100260,Immuno-GBM Study,Not in Trial,True,2021-04-10,Not Applicable
+TR500261,P100261,EGFR-targeted Study,Not in Trial,True,2023-12-30,Withdrawn
+TR500262,P100262,mRNA Personalized Vaccine Study,Observational,False,,Not Applicable
+TR500263,P100263,EGFR-targeted Study,Phase II,True,2021-01-08,Not Applicable
+TR500264,P100264,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500265,P100265,Immuno-GBM Study,Not in Trial,True,2021-02-10,Withdrawn
+TR500266,P100266,EGFR-targeted Study,Phase II,True,2024-10-27,Ongoing
+TR500267,P100267,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500268,P100268,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500269,P100269,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500270,P100270,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500271,P100271,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500272,P100272,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500273,P100273,Standard of Care Registry,Phase II,True,2025-04-05,Withdrawn
+TR500274,P100274,Standard of Care Registry,Observational,False,,Withdrawn
+TR500275,P100275,EGFR-targeted Study,Phase I,False,,Ongoing
+TR500276,P100276,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500277,P100277,Radiomics Biomarker Trial,Phase II,True,2022-03-12,Completed
+TR500278,P100278,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500279,P100279,Immuno-GBM Study,Phase I,False,,Completed
+TR500280,P100280,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500281,P100281,EGFR-targeted Study,Observational,False,,Completed
+TR500282,P100282,Standard of Care Registry,Phase I,True,2021-07-18,Withdrawn
+TR500283,P100283,EGFR-targeted Study,Observational,True,2021-09-29,Ongoing
+TR500284,P100284,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500285,P100285,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500286,P100286,mRNA Personalized Vaccine Study,Observational,False,,Withdrawn
+TR500287,P100287,CAR-T Glioma Study,Not in Trial,True,2024-09-12,Withdrawn
+TR500288,P100288,CAR-T Glioma Study,Observational,False,,Completed
+TR500289,P100289,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500290,P100290,Immuno-GBM Study,Phase I,True,2024-02-07,Withdrawn
+TR500291,P100291,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500292,P100292,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500293,P100293,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500294,P100294,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500295,P100295,Immuno-GBM Study,Not in Trial,True,2020-07-26,Not Applicable
+TR500296,P100296,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500297,P100297,Standard of Care Registry,Not in Trial,True,2022-09-26,Not Applicable
+TR500298,P100298,CAR-T Glioma Study,Phase IV,False,,Ongoing
+TR500299,P100299,Standard of Care Registry,Phase IV,False,,Ongoing
+TR500300,P100300,Radiomics Biomarker Trial,Phase III,True,2022-01-08,Not Applicable
+TR500301,P100301,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500302,P100302,CAR-T Glioma Study,Phase I,False,,Ongoing
+TR500303,P100303,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500304,P100304,Radiomics Biomarker Trial,Not in Trial,True,2023-03-07,Completed
+TR500305,P100305,Immuno-GBM Study,Observational,False,,Withdrawn
+TR500306,P100306,Standard of Care Registry,Not in Trial,True,2022-07-24,Withdrawn
+TR500307,P100307,mRNA Personalized Vaccine Study,Phase II,False,,Withdrawn
+TR500308,P100308,mRNA Personalized Vaccine Study,Not in Trial,True,2022-07-02,Ongoing
+TR500309,P100309,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500310,P100310,Radiomics Biomarker Trial,Not in Trial,True,2023-02-17,Withdrawn
+TR500311,P100311,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500312,P100312,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500313,P100313,Immuno-GBM Study,Phase I,False,,Ongoing
+TR500314,P100314,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500315,P100315,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500316,P100316,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500317,P100317,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500318,P100318,Radiomics Biomarker Trial,Phase I,True,2023-04-06,Withdrawn
+TR500319,P100319,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500320,P100320,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500321,P100321,Radiomics Biomarker Trial,Phase IV,True,2020-07-10,Ongoing
+TR500322,P100322,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500323,P100323,EGFR-targeted Study,Observational,False,,Withdrawn
+TR500324,P100324,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500325,P100325,mRNA Personalized Vaccine Study,Phase IV,True,2021-04-05,Not Applicable
+TR500326,P100326,EGFR-targeted Study,Not in Trial,True,2020-11-13,Withdrawn
+TR500327,P100327,Standard of Care Registry,Observational,True,2021-03-24,Completed
+TR500328,P100328,Standard of Care Registry,Not in Trial,False,,Completed
+TR500329,P100329,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500330,P100330,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500331,P100331,Radiomics Biomarker Trial,Phase III,False,,Not Applicable
+TR500332,P100332,EGFR-targeted Study,Observational,False,,Not Applicable
+TR500333,P100333,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500334,P100334,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500335,P100335,mRNA Personalized Vaccine Study,Phase II,True,2023-01-11,Withdrawn
+TR500336,P100336,Radiomics Biomarker Trial,Observational,False,,Withdrawn
+TR500337,P100337,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500338,P100338,Standard of Care Registry,Observational,False,,Not Applicable
+TR500339,P100339,EGFR-targeted Study,Phase II,True,2021-04-11,Withdrawn
+TR500340,P100340,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500341,P100341,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500342,P100342,EGFR-targeted Study,Phase IV,False,,Not Applicable
+TR500343,P100343,Immuno-GBM Study,Observational,True,2023-02-20,Not Applicable
+TR500344,P100344,mRNA Personalized Vaccine Study,Phase III,True,2022-09-03,Completed
+TR500345,P100345,Immuno-GBM Study,Observational,False,,Withdrawn
+TR500346,P100346,Immuno-GBM Study,Phase III,False,,Not Applicable
+TR500347,P100347,CAR-T Glioma Study,Phase II,True,2021-03-16,Not Applicable
+TR500348,P100348,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500349,P100349,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500350,P100350,Standard of Care Registry,Observational,False,,Withdrawn
+TR500351,P100351,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500352,P100352,EGFR-targeted Study,Phase III,True,2020-05-10,Not Applicable
+TR500353,P100353,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500354,P100354,Radiomics Biomarker Trial,Not in Trial,True,2020-03-01,Not Applicable
+TR500355,P100355,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500356,P100356,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500357,P100357,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500358,P100358,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500359,P100359,Standard of Care Registry,Phase I,True,2022-05-31,Withdrawn
+TR500360,P100360,mRNA Personalized Vaccine Study,Phase II,True,2022-04-02,Completed
+TR500361,P100361,Standard of Care Registry,Phase I,False,,Ongoing
+TR500362,P100362,EGFR-targeted Study,Phase I,True,2021-06-11,Ongoing
+TR500363,P100363,EGFR-targeted Study,Not in Trial,True,2020-05-01,Withdrawn
+TR500364,P100364,EGFR-targeted Study,Observational,True,2020-01-26,Ongoing
+TR500365,P100365,Immuno-GBM Study,Phase I,False,,Withdrawn
+TR500366,P100366,Radiomics Biomarker Trial,Not in Trial,True,2023-07-27,Not Applicable
+TR500367,P100367,mRNA Personalized Vaccine Study,Observational,True,2020-07-17,Completed
+TR500368,P100368,Radiomics Biomarker Trial,Phase III,False,,Not Applicable
+TR500369,P100369,EGFR-targeted Study,Not in Trial,True,2020-10-31,Not Applicable
+TR500370,P100370,EGFR-targeted Study,Observational,True,2024-12-24,Ongoing
+TR500371,P100371,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500372,P100372,EGFR-targeted Study,Phase I,True,2022-11-27,Completed
+TR500373,P100373,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500374,P100374,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500375,P100375,Standard of Care Registry,Not in Trial,True,2023-02-09,Ongoing
+TR500376,P100376,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500377,P100377,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500378,P100378,CAR-T Glioma Study,Observational,True,2024-07-18,Ongoing
+TR500379,P100379,Standard of Care Registry,Not in Trial,True,2023-09-03,Withdrawn
+TR500380,P100380,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500381,P100381,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500382,P100382,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500383,P100383,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500384,P100384,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500385,P100385,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500386,P100386,Standard of Care Registry,Phase I,False,,Ongoing
+TR500387,P100387,Radiomics Biomarker Trial,Phase II,True,2025-04-23,Ongoing
+TR500388,P100388,Standard of Care Registry,Phase I,False,,Completed
+TR500389,P100389,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500390,P100390,CAR-T Glioma Study,Observational,False,,Completed
+TR500391,P100391,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500392,P100392,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500393,P100393,Radiomics Biomarker Trial,Not in Trial,True,2020-07-21,Not Applicable
+TR500394,P100394,Standard of Care Registry,Not in Trial,True,2021-10-17,Ongoing
+TR500395,P100395,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500396,P100396,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500397,P100397,Radiomics Biomarker Trial,Not in Trial,True,2023-09-12,Withdrawn
+TR500398,P100398,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500399,P100399,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500400,P100400,EGFR-targeted Study,Observational,True,2023-10-01,Withdrawn
+TR500401,P100401,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500402,P100402,Standard of Care Registry,Phase I,False,,Withdrawn
+TR500403,P100403,CAR-T Glioma Study,Phase II,True,2024-08-13,Not Applicable
+TR500404,P100404,CAR-T Glioma Study,Phase II,True,2021-06-03,Ongoing
+TR500405,P100405,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500406,P100406,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500407,P100407,Radiomics Biomarker Trial,Not in Trial,True,2025-01-21,Not Applicable
+TR500408,P100408,mRNA Personalized Vaccine Study,Observational,False,,Completed
+TR500409,P100409,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500410,P100410,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500411,P100411,CAR-T Glioma Study,Observational,True,2024-08-12,Completed
+TR500412,P100412,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500413,P100413,CAR-T Glioma Study,Observational,True,2022-09-07,Ongoing
+TR500414,P100414,CAR-T Glioma Study,Observational,True,2021-01-12,Ongoing
+TR500415,P100415,Radiomics Biomarker Trial,Not in Trial,True,2022-06-11,Withdrawn
+TR500416,P100416,CAR-T Glioma Study,Phase II,True,2023-05-07,Ongoing
+TR500417,P100417,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500418,P100418,EGFR-targeted Study,Not in Trial,True,2020-01-30,Completed
+TR500419,P100419,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500420,P100420,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500421,P100421,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500422,P100422,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500423,P100423,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500424,P100424,EGFR-targeted Study,Observational,True,2022-12-18,Withdrawn
+TR500425,P100425,EGFR-targeted Study,Phase III,True,2025-05-28,Withdrawn
+TR500426,P100426,Immuno-GBM Study,Observational,False,,Not Applicable
+TR500427,P100427,EGFR-targeted Study,Phase II,True,2024-01-15,Completed
+TR500428,P100428,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500429,P100429,Standard of Care Registry,Observational,True,2021-04-23,Ongoing
+TR500430,P100430,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500431,P100431,Radiomics Biomarker Trial,Not in Trial,True,2024-04-09,Ongoing
+TR500432,P100432,Immuno-GBM Study,Phase III,True,2023-08-21,Not Applicable
+TR500433,P100433,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500434,P100434,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500435,P100435,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500436,P100436,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500437,P100437,CAR-T Glioma Study,Not in Trial,True,2023-01-03,Withdrawn
+TR500438,P100438,Standard of Care Registry,Phase I,False,,Completed
+TR500439,P100439,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500440,P100440,CAR-T Glioma Study,Phase II,True,2024-07-07,Withdrawn
+TR500441,P100441,CAR-T Glioma Study,Observational,False,,Completed
+TR500442,P100442,Standard of Care Registry,Not in Trial,True,2021-12-23,Completed
+TR500443,P100443,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500444,P100444,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500445,P100445,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500446,P100446,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500447,P100447,EGFR-targeted Study,Phase I,True,2021-02-02,Withdrawn
+TR500448,P100448,CAR-T Glioma Study,Not in Trial,False,,Withdrawn
+TR500449,P100449,CAR-T Glioma Study,Not in Trial,True,2020-10-16,Not Applicable
+TR500450,P100450,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500451,P100451,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500452,P100452,EGFR-targeted Study,Observational,False,,Completed
+TR500453,P100453,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500454,P100454,Standard of Care Registry,Not in Trial,True,2021-02-26,Not Applicable
+TR500455,P100455,mRNA Personalized Vaccine Study,Phase III,True,2024-03-07,Completed
+TR500456,P100456,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500457,P100457,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500458,P100458,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500459,P100459,Immuno-GBM Study,Not in Trial,True,2020-02-13,Ongoing
+TR500460,P100460,mRNA Personalized Vaccine Study,Not in Trial,True,2024-10-12,Ongoing
+TR500461,P100461,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500462,P100462,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500463,P100463,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500464,P100464,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500465,P100465,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500466,P100466,EGFR-targeted Study,Observational,True,2025-02-07,Not Applicable
+TR500467,P100467,Standard of Care Registry,Observational,False,,Not Applicable
+TR500468,P100468,Standard of Care Registry,Not in Trial,False,,Completed
+TR500469,P100469,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500470,P100470,Radiomics Biomarker Trial,Observational,True,2024-12-07,Not Applicable
+TR500471,P100471,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500472,P100472,CAR-T Glioma Study,Phase III,False,,Completed
+TR500473,P100473,CAR-T Glioma Study,Phase II,True,2025-04-22,Withdrawn
+TR500474,P100474,mRNA Personalized Vaccine Study,Not in Trial,True,2020-05-21,Completed
+TR500475,P100475,Standard of Care Registry,Observational,False,,Not Applicable
+TR500476,P100476,Standard of Care Registry,Not in Trial,True,2021-02-07,Withdrawn
+TR500477,P100477,mRNA Personalized Vaccine Study,Phase I,True,2023-05-19,Not Applicable
+TR500478,P100478,CAR-T Glioma Study,Observational,False,,Completed
+TR500479,P100479,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500480,P100480,CAR-T Glioma Study,Not in Trial,True,2021-10-14,Completed
+TR500481,P100481,Standard of Care Registry,Observational,True,2021-09-19,Withdrawn
+TR500482,P100482,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500483,P100483,CAR-T Glioma Study,Phase I,False,,Ongoing
+TR500484,P100484,Radiomics Biomarker Trial,Phase I,True,2024-11-20,Ongoing
+TR500485,P100485,mRNA Personalized Vaccine Study,Not in Trial,True,2022-02-18,Completed
+TR500486,P100486,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500487,P100487,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500488,P100488,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500489,P100489,mRNA Personalized Vaccine Study,Not in Trial,True,2024-01-12,Withdrawn
+TR500490,P100490,mRNA Personalized Vaccine Study,Phase III,False,,Withdrawn
+TR500491,P100491,Standard of Care Registry,Observational,False,,Ongoing
+TR500492,P100492,EGFR-targeted Study,Not in Trial,False,,Ongoing
+TR500493,P100493,Immuno-GBM Study,Observational,True,2021-05-12,Ongoing
+TR500494,P100494,Radiomics Biomarker Trial,Observational,True,2023-03-17,Completed
+TR500495,P100495,Immuno-GBM Study,Not in Trial,True,2024-01-20,Ongoing
+TR500496,P100496,EGFR-targeted Study,Not in Trial,False,,Ongoing
+TR500497,P100497,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500498,P100498,EGFR-targeted Study,Not in Trial,True,2020-09-06,Ongoing
+TR500499,P100499,Standard of Care Registry,Not in Trial,True,2025-03-12,Ongoing
+TR500500,P100500,Immuno-GBM Study,Observational,False,,Ongoing
+TR500501,P100501,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500502,P100502,CAR-T Glioma Study,Observational,True,2021-10-18,Completed
+TR500503,P100503,Standard of Care Registry,Phase II,True,2022-10-11,Completed
+TR500504,P100504,Standard of Care Registry,Phase II,False,,Ongoing
+TR500505,P100505,Immuno-GBM Study,Phase II,False,,Ongoing
+TR500506,P100506,mRNA Personalized Vaccine Study,Observational,True,2020-10-21,Completed
+TR500507,P100507,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500508,P100508,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500509,P100509,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500510,P100510,Radiomics Biomarker Trial,Phase II,False,,Not Applicable
+TR500511,P100511,Standard of Care Registry,Phase I,False,,Completed
+TR500512,P100512,Standard of Care Registry,Phase II,False,,Withdrawn
+TR500513,P100513,Immuno-GBM Study,Phase I,True,2020-05-06,Ongoing
+TR500514,P100514,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500515,P100515,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500516,P100516,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500517,P100517,Standard of Care Registry,Phase III,False,,Ongoing
+TR500518,P100518,mRNA Personalized Vaccine Study,Phase III,False,,Not Applicable
+TR500519,P100519,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500520,P100520,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500521,P100521,Immuno-GBM Study,Phase I,True,2023-11-15,Withdrawn
+TR500522,P100522,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500523,P100523,CAR-T Glioma Study,Phase II,False,,Completed
+TR500524,P100524,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500525,P100525,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500526,P100526,CAR-T Glioma Study,Phase II,True,2024-06-08,Completed
+TR500527,P100527,Radiomics Biomarker Trial,Observational,True,2020-07-13,Ongoing
+TR500528,P100528,mRNA Personalized Vaccine Study,Phase II,True,2021-11-21,Completed
+TR500529,P100529,Radiomics Biomarker Trial,Observational,False,,Withdrawn
+TR500530,P100530,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500531,P100531,Standard of Care Registry,Observational,False,,Not Applicable
+TR500532,P100532,CAR-T Glioma Study,Phase II,True,2025-06-07,Ongoing
+TR500533,P100533,Immuno-GBM Study,Phase II,True,2025-05-05,Withdrawn
+TR500534,P100534,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500535,P100535,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500536,P100536,Standard of Care Registry,Phase II,False,,Completed
+TR500537,P100537,Standard of Care Registry,Phase I,False,,Not Applicable
+TR500538,P100538,Radiomics Biomarker Trial,Phase IV,False,,Withdrawn
+TR500539,P100539,Standard of Care Registry,Phase I,False,,Completed
+TR500540,P100540,Immuno-GBM Study,Phase II,False,,Ongoing
+TR500541,P100541,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500542,P100542,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500543,P100543,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500544,P100544,Standard of Care Registry,Phase III,False,,Completed
+TR500545,P100545,Standard of Care Registry,Not in Trial,False,,Completed
+TR500546,P100546,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500547,P100547,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500548,P100548,CAR-T Glioma Study,Phase II,True,2024-03-16,Completed
+TR500549,P100549,EGFR-targeted Study,Not in Trial,True,2022-10-02,Not Applicable
+TR500550,P100550,mRNA Personalized Vaccine Study,Phase IV,False,,Ongoing
+TR500551,P100551,mRNA Personalized Vaccine Study,Phase II,True,2023-12-28,Completed
+TR500552,P100552,CAR-T Glioma Study,Phase II,True,2021-05-20,Completed
+TR500553,P100553,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500554,P100554,mRNA Personalized Vaccine Study,Phase III,False,,Not Applicable
+TR500555,P100555,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500556,P100556,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500557,P100557,Standard of Care Registry,Phase I,True,2024-12-17,Completed
+TR500558,P100558,mRNA Personalized Vaccine Study,Phase II,False,,Completed
+TR500559,P100559,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500560,P100560,Radiomics Biomarker Trial,Phase I,True,2021-08-29,Ongoing
+TR500561,P100561,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500562,P100562,CAR-T Glioma Study,Phase II,True,2023-07-05,Not Applicable
+TR500563,P100563,CAR-T Glioma Study,Phase III,False,,Withdrawn
+TR500564,P100564,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500565,P100565,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500566,P100566,mRNA Personalized Vaccine Study,Observational,True,2025-05-12,Ongoing
+TR500567,P100567,EGFR-targeted Study,Observational,False,,Not Applicable
+TR500568,P100568,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500569,P100569,CAR-T Glioma Study,Phase III,False,,Withdrawn
+TR500570,P100570,EGFR-targeted Study,Phase II,False,,Ongoing
+TR500571,P100571,EGFR-targeted Study,Not in Trial,False,,Ongoing
+TR500572,P100572,Standard of Care Registry,Not in Trial,True,2024-01-08,Completed
+TR500573,P100573,Radiomics Biomarker Trial,Phase II,True,2020-11-06,Ongoing
+TR500574,P100574,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500575,P100575,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500576,P100576,CAR-T Glioma Study,Phase II,True,2022-03-31,Ongoing
+TR500577,P100577,CAR-T Glioma Study,Phase II,False,,Completed
+TR500578,P100578,Radiomics Biomarker Trial,Phase II,True,2022-07-07,Completed
+TR500579,P100579,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500580,P100580,EGFR-targeted Study,Observational,False,,Ongoing
+TR500581,P100581,Radiomics Biomarker Trial,Observational,False,,Not Applicable
+TR500582,P100582,Radiomics Biomarker Trial,Observational,True,2025-04-29,Completed
+TR500583,P100583,EGFR-targeted Study,Not in Trial,True,2021-10-16,Withdrawn
+TR500584,P100584,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500585,P100585,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500586,P100586,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500587,P100587,Immuno-GBM Study,Observational,False,,Completed
+TR500588,P100588,Immuno-GBM Study,Phase I,False,,Withdrawn
+TR500589,P100589,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500590,P100590,EGFR-targeted Study,Phase II,True,2020-01-16,Withdrawn
+TR500591,P100591,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500592,P100592,EGFR-targeted Study,Observational,True,2021-06-08,Withdrawn
+TR500593,P100593,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500594,P100594,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500595,P100595,Standard of Care Registry,Phase IV,False,,Not Applicable
+TR500596,P100596,Immuno-GBM Study,Phase I,True,2022-03-04,Ongoing
+TR500597,P100597,Radiomics Biomarker Trial,Not in Trial,True,2024-04-04,Withdrawn
+TR500598,P100598,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500599,P100599,Standard of Care Registry,Phase II,True,2023-07-06,Completed
+TR500600,P100600,Radiomics Biomarker Trial,Phase III,False,,Ongoing
+TR500601,P100601,Radiomics Biomarker Trial,Phase I,True,2024-10-28,Withdrawn
+TR500602,P100602,CAR-T Glioma Study,Phase I,False,,Withdrawn
+TR500603,P100603,EGFR-targeted Study,Phase II,False,,Completed
+TR500604,P100604,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500605,P100605,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500606,P100606,Immuno-GBM Study,Phase IV,True,2023-06-22,Ongoing
+TR500607,P100607,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500608,P100608,EGFR-targeted Study,Phase II,False,,Completed
+TR500609,P100609,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500610,P100610,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500611,P100611,Immuno-GBM Study,Phase I,False,,Withdrawn
+TR500612,P100612,mRNA Personalized Vaccine Study,Not in Trial,True,2020-10-17,Withdrawn
+TR500613,P100613,Immuno-GBM Study,Phase II,True,2025-02-25,Ongoing
+TR500614,P100614,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500615,P100615,Radiomics Biomarker Trial,Observational,False,,Not Applicable
+TR500616,P100616,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500617,P100617,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500618,P100618,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500619,P100619,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500620,P100620,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500621,P100621,EGFR-targeted Study,Observational,True,2025-01-11,Ongoing
+TR500622,P100622,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500623,P100623,mRNA Personalized Vaccine Study,Not in Trial,True,2020-02-19,Withdrawn
+TR500624,P100624,Radiomics Biomarker Trial,Not in Trial,True,2023-11-13,Not Applicable
+TR500625,P100625,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500626,P100626,CAR-T Glioma Study,Phase III,False,,Completed
+TR500627,P100627,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500628,P100628,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500629,P100629,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500630,P100630,Standard of Care Registry,Not in Trial,False,,Completed
+TR500631,P100631,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500632,P100632,mRNA Personalized Vaccine Study,Observational,False,,Not Applicable
+TR500633,P100633,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500634,P100634,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500635,P100635,Radiomics Biomarker Trial,Observational,False,,Withdrawn
+TR500636,P100636,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500637,P100637,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500638,P100638,Radiomics Biomarker Trial,Phase I,False,,Withdrawn
+TR500639,P100639,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500640,P100640,Standard of Care Registry,Not in Trial,True,2022-03-22,Ongoing
+TR500641,P100641,EGFR-targeted Study,Not in Trial,True,2023-01-19,Ongoing
+TR500642,P100642,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500643,P100643,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500644,P100644,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500645,P100645,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500646,P100646,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500647,P100647,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500648,P100648,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500649,P100649,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500650,P100650,Standard of Care Registry,Observational,True,2025-04-29,Withdrawn
+TR500651,P100651,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500652,P100652,Radiomics Biomarker Trial,Phase II,True,2020-02-18,Ongoing
+TR500653,P100653,Radiomics Biomarker Trial,Observational,True,2021-01-15,Ongoing
+TR500654,P100654,Immuno-GBM Study,Observational,False,,Not Applicable
+TR500655,P100655,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500656,P100656,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500657,P100657,CAR-T Glioma Study,Phase II,False,,Not Applicable
+TR500658,P100658,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500659,P100659,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500660,P100660,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500661,P100661,CAR-T Glioma Study,Not in Trial,True,2023-11-11,Withdrawn
+TR500662,P100662,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500663,P100663,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500664,P100664,Immuno-GBM Study,Phase I,True,2021-05-17,Ongoing
+TR500665,P100665,mRNA Personalized Vaccine Study,Phase II,False,,Completed
+TR500666,P100666,Immuno-GBM Study,Phase IV,False,,Withdrawn
+TR500667,P100667,CAR-T Glioma Study,Phase I,False,,Completed
+TR500668,P100668,Immuno-GBM Study,Phase IV,True,2023-11-01,Completed
+TR500669,P100669,Immuno-GBM Study,Phase III,False,,Not Applicable
+TR500670,P100670,CAR-T Glioma Study,Observational,True,2021-07-16,Not Applicable
+TR500671,P100671,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500672,P100672,Standard of Care Registry,Phase I,True,2022-11-24,Not Applicable
+TR500673,P100673,mRNA Personalized Vaccine Study,Observational,False,,Completed
+TR500674,P100674,mRNA Personalized Vaccine Study,Observational,False,,Not Applicable
+TR500675,P100675,Immuno-GBM Study,Observational,True,2021-02-11,Not Applicable
+TR500676,P100676,CAR-T Glioma Study,Phase II,True,2024-05-07,Completed
+TR500677,P100677,mRNA Personalized Vaccine Study,Not in Trial,True,2021-01-09,Completed
+TR500678,P100678,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500679,P100679,Standard of Care Registry,Phase I,False,,Ongoing
+TR500680,P100680,Radiomics Biomarker Trial,Observational,True,2024-02-25,Ongoing
+TR500681,P100681,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500682,P100682,Standard of Care Registry,Observational,False,,Withdrawn
+TR500683,P100683,CAR-T Glioma Study,Not in Trial,True,2022-08-28,Ongoing
+TR500684,P100684,Standard of Care Registry,Phase I,False,,Not Applicable
+TR500685,P100685,mRNA Personalized Vaccine Study,Observational,True,2024-12-02,Withdrawn
+TR500686,P100686,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500687,P100687,Immuno-GBM Study,Observational,True,2023-03-14,Completed
+TR500688,P100688,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500689,P100689,Immuno-GBM Study,Phase III,False,,Completed
+TR500690,P100690,EGFR-targeted Study,Phase III,True,2020-03-22,Completed
+TR500691,P100691,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500692,P100692,EGFR-targeted Study,Observational,True,2024-06-02,Ongoing
+TR500693,P100693,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500694,P100694,mRNA Personalized Vaccine Study,Phase I,True,2025-02-28,Completed
+TR500695,P100695,Radiomics Biomarker Trial,Not in Trial,True,2023-09-21,Not Applicable
+TR500696,P100696,Immuno-GBM Study,Phase II,True,2020-12-19,Not Applicable
+TR500697,P100697,EGFR-targeted Study,Phase III,False,,Ongoing
+TR500698,P100698,EGFR-targeted Study,Observational,True,2020-10-24,Ongoing
+TR500699,P100699,EGFR-targeted Study,Phase II,True,2020-12-03,Completed
+TR500700,P100700,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500701,P100701,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500702,P100702,mRNA Personalized Vaccine Study,Not in Trial,True,2024-05-17,Not Applicable
+TR500703,P100703,Standard of Care Registry,Observational,False,,Withdrawn
+TR500704,P100704,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500705,P100705,CAR-T Glioma Study,Phase II,False,,Completed
+TR500706,P100706,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500707,P100707,EGFR-targeted Study,Not in Trial,False,,Ongoing
+TR500708,P100708,Immuno-GBM Study,Phase II,False,,Completed
+TR500709,P100709,mRNA Personalized Vaccine Study,Not in Trial,True,2021-07-22,Not Applicable
+TR500710,P100710,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500711,P100711,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500712,P100712,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500713,P100713,EGFR-targeted Study,Phase II,False,,Completed
+TR500714,P100714,Standard of Care Registry,Phase II,True,2022-09-29,Withdrawn
+TR500715,P100715,Standard of Care Registry,Phase II,False,,Ongoing
+TR500716,P100716,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500717,P100717,mRNA Personalized Vaccine Study,Phase III,True,2025-03-13,Withdrawn
+TR500718,P100718,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500719,P100719,mRNA Personalized Vaccine Study,Not in Trial,True,2022-11-26,Not Applicable
+TR500720,P100720,CAR-T Glioma Study,Phase I,False,,Completed
+TR500721,P100721,Standard of Care Registry,Not in Trial,True,2021-08-27,Completed
+TR500722,P100722,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500723,P100723,EGFR-targeted Study,Phase I,False,,Completed
+TR500724,P100724,mRNA Personalized Vaccine Study,Observational,False,,Completed
+TR500725,P100725,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500726,P100726,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500727,P100727,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500728,P100728,mRNA Personalized Vaccine Study,Phase II,True,2023-05-26,Ongoing
+TR500729,P100729,EGFR-targeted Study,Phase I,False,,Not Applicable
+TR500730,P100730,mRNA Personalized Vaccine Study,Observational,True,2025-03-15,Not Applicable
+TR500731,P100731,EGFR-targeted Study,Phase II,False,,Withdrawn
+TR500732,P100732,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500733,P100733,Standard of Care Registry,Observational,False,,Not Applicable
+TR500734,P100734,CAR-T Glioma Study,Phase III,False,,Not Applicable
+TR500735,P100735,Radiomics Biomarker Trial,Phase I,True,2020-09-08,Withdrawn
+TR500736,P100736,Immuno-GBM Study,Not in Trial,True,2024-10-01,Ongoing
+TR500737,P100737,EGFR-targeted Study,Phase I,False,,Withdrawn
+TR500738,P100738,Standard of Care Registry,Observational,True,2023-11-07,Not Applicable
+TR500739,P100739,EGFR-targeted Study,Phase I,False,,Ongoing
+TR500740,P100740,EGFR-targeted Study,Observational,False,,Withdrawn
+TR500741,P100741,Radiomics Biomarker Trial,Phase I,True,2021-03-27,Withdrawn
+TR500742,P100742,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500743,P100743,mRNA Personalized Vaccine Study,Observational,False,,Completed
+TR500744,P100744,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500745,P100745,EGFR-targeted Study,Not in Trial,True,2024-02-25,Withdrawn
+TR500746,P100746,Immuno-GBM Study,Not in Trial,True,2021-05-19,Not Applicable
+TR500747,P100747,EGFR-targeted Study,Phase I,False,,Completed
+TR500748,P100748,mRNA Personalized Vaccine Study,Not in Trial,True,2020-08-07,Ongoing
+TR500749,P100749,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500750,P100750,Immuno-GBM Study,Phase II,True,2024-10-01,Ongoing
+TR500751,P100751,CAR-T Glioma Study,Phase II,False,,Completed
+TR500752,P100752,EGFR-targeted Study,Not in Trial,False,,Not Applicable
+TR500753,P100753,Radiomics Biomarker Trial,Observational,False,,Not Applicable
+TR500754,P100754,mRNA Personalized Vaccine Study,Phase II,False,,Withdrawn
+TR500755,P100755,EGFR-targeted Study,Observational,False,,Not Applicable
+TR500756,P100756,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500757,P100757,EGFR-targeted Study,Observational,True,2024-09-10,Not Applicable
+TR500758,P100758,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500759,P100759,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500760,P100760,CAR-T Glioma Study,Not in Trial,True,2023-05-14,Not Applicable
+TR500761,P100761,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500762,P100762,CAR-T Glioma Study,Not in Trial,True,2023-12-31,Ongoing
+TR500763,P100763,mRNA Personalized Vaccine Study,Phase II,False,,Not Applicable
+TR500764,P100764,Standard of Care Registry,Observational,False,,Not Applicable
+TR500765,P100765,CAR-T Glioma Study,Not in Trial,True,2021-06-06,Withdrawn
+TR500766,P100766,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500767,P100767,EGFR-targeted Study,Observational,True,2023-08-13,Completed
+TR500768,P100768,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500769,P100769,Standard of Care Registry,Not in Trial,True,2025-02-18,Completed
+TR500770,P100770,EGFR-targeted Study,Observational,False,,Ongoing
+TR500771,P100771,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500772,P100772,CAR-T Glioma Study,Observational,True,2021-07-24,Completed
+TR500773,P100773,Radiomics Biomarker Trial,Phase I,False,,Ongoing
+TR500774,P100774,EGFR-targeted Study,Phase I,True,2020-04-16,Completed
+TR500775,P100775,CAR-T Glioma Study,Phase I,False,,Completed
+TR500776,P100776,EGFR-targeted Study,Phase I,True,2023-12-30,Ongoing
+TR500777,P100777,mRNA Personalized Vaccine Study,Observational,True,2024-07-31,Completed
+TR500778,P100778,EGFR-targeted Study,Phase II,False,,Withdrawn
+TR500779,P100779,EGFR-targeted Study,Not in Trial,True,2025-03-24,Completed
+TR500780,P100780,mRNA Personalized Vaccine Study,Phase I,True,2024-10-17,Completed
+TR500781,P100781,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500782,P100782,Immuno-GBM Study,Phase II,True,2022-08-18,Completed
+TR500783,P100783,EGFR-targeted Study,Not in Trial,True,2024-09-04,Withdrawn
+TR500784,P100784,CAR-T Glioma Study,Phase III,False,,Completed
+TR500785,P100785,Immuno-GBM Study,Phase II,False,,Completed
+TR500786,P100786,Immuno-GBM Study,Observational,False,,Ongoing
+TR500787,P100787,Immuno-GBM Study,Not in Trial,True,2021-08-11,Not Applicable
+TR500788,P100788,Standard of Care Registry,Phase II,False,,Not Applicable
+TR500789,P100789,CAR-T Glioma Study,Phase III,False,,Not Applicable
+TR500790,P100790,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500791,P100791,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500792,P100792,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500793,P100793,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500794,P100794,CAR-T Glioma Study,Observational,False,,Not Applicable
+TR500795,P100795,mRNA Personalized Vaccine Study,Phase I,True,2022-09-24,Completed
+TR500796,P100796,CAR-T Glioma Study,Not in Trial,True,2024-05-06,Completed
+TR500797,P100797,Standard of Care Registry,Phase II,False,,Completed
+TR500798,P100798,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500799,P100799,CAR-T Glioma Study,Observational,True,2021-06-01,Not Applicable
+TR500800,P100800,CAR-T Glioma Study,Phase II,False,,Withdrawn
+TR500801,P100801,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500802,P100802,Radiomics Biomarker Trial,Not in Trial,True,2025-01-11,Ongoing
+TR500803,P100803,mRNA Personalized Vaccine Study,Phase I,True,2022-08-10,Not Applicable
+TR500804,P100804,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500805,P100805,EGFR-targeted Study,Phase II,False,,Not Applicable
+TR500806,P100806,Immuno-GBM Study,Observational,False,,Withdrawn
+TR500807,P100807,EGFR-targeted Study,Phase I,False,,Completed
+TR500808,P100808,Radiomics Biomarker Trial,Observational,True,2024-03-04,Withdrawn
+TR500809,P100809,Radiomics Biomarker Trial,Observational,False,,Withdrawn
+TR500810,P100810,mRNA Personalized Vaccine Study,Observational,False,,Not Applicable
+TR500811,P100811,mRNA Personalized Vaccine Study,Phase I,False,,Withdrawn
+TR500812,P100812,EGFR-targeted Study,Observational,False,,Ongoing
+TR500813,P100813,CAR-T Glioma Study,Not in Trial,False,,Ongoing
+TR500814,P100814,Standard of Care Registry,Not in Trial,False,,Ongoing
+TR500815,P100815,CAR-T Glioma Study,Not in Trial,True,2021-11-07,Not Applicable
+TR500816,P100816,mRNA Personalized Vaccine Study,Not in Trial,False,,Completed
+TR500817,P100817,Immuno-GBM Study,Observational,True,2023-06-17,Not Applicable
+TR500818,P100818,Immuno-GBM Study,Phase I,True,2020-03-31,Withdrawn
+TR500819,P100819,Radiomics Biomarker Trial,Observational,True,2022-05-06,Completed
+TR500820,P100820,CAR-T Glioma Study,Phase II,True,2023-01-25,Withdrawn
+TR500821,P100821,Immuno-GBM Study,Not in Trial,True,2020-05-15,Completed
+TR500822,P100822,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500823,P100823,CAR-T Glioma Study,Not in Trial,True,2025-02-17,Completed
+TR500824,P100824,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500825,P100825,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500826,P100826,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500827,P100827,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500828,P100828,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500829,P100829,Radiomics Biomarker Trial,Not in Trial,True,2024-07-26,Ongoing
+TR500830,P100830,mRNA Personalized Vaccine Study,Phase II,False,,Withdrawn
+TR500831,P100831,CAR-T Glioma Study,Phase II,False,,Ongoing
+TR500832,P100832,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500833,P100833,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500834,P100834,CAR-T Glioma Study,Not in Trial,True,2025-01-27,Completed
+TR500835,P100835,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500836,P100836,CAR-T Glioma Study,Phase II,False,,Withdrawn
+TR500837,P100837,Radiomics Biomarker Trial,Phase I,True,2023-06-30,Not Applicable
+TR500838,P100838,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500839,P100839,CAR-T Glioma Study,Not in Trial,True,2022-04-11,Not Applicable
+TR500840,P100840,Immuno-GBM Study,Observational,False,,Withdrawn
+TR500841,P100841,mRNA Personalized Vaccine Study,Not in Trial,True,2021-04-27,Not Applicable
+TR500842,P100842,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500843,P100843,mRNA Personalized Vaccine Study,Phase II,True,2021-05-13,Completed
+TR500844,P100844,mRNA Personalized Vaccine Study,Phase I,False,,Not Applicable
+TR500845,P100845,Immuno-GBM Study,Not in Trial,True,2020-06-17,Ongoing
+TR500846,P100846,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500847,P100847,Standard of Care Registry,Not in Trial,False,,Completed
+TR500848,P100848,CAR-T Glioma Study,Not in Trial,True,2020-12-29,Ongoing
+TR500849,P100849,Standard of Care Registry,Observational,False,,Withdrawn
+TR500850,P100850,Immuno-GBM Study,Not in Trial,True,2020-12-04,Withdrawn
+TR500851,P100851,EGFR-targeted Study,Phase I,True,2020-06-17,Ongoing
+TR500852,P100852,Radiomics Biomarker Trial,Phase IV,True,2025-01-11,Not Applicable
+TR500853,P100853,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500854,P100854,EGFR-targeted Study,Phase III,False,,Ongoing
+TR500855,P100855,Radiomics Biomarker Trial,Not in Trial,False,,Ongoing
+TR500856,P100856,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500857,P100857,Standard of Care Registry,Phase II,True,2021-08-04,Ongoing
+TR500858,P100858,Standard of Care Registry,Phase II,False,,Completed
+TR500859,P100859,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500860,P100860,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500861,P100861,mRNA Personalized Vaccine Study,Not in Trial,True,2023-09-26,Withdrawn
+TR500862,P100862,Radiomics Biomarker Trial,Phase I,False,,Completed
+TR500863,P100863,EGFR-targeted Study,Observational,True,2024-11-27,Ongoing
+TR500864,P100864,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500865,P100865,mRNA Personalized Vaccine Study,Not in Trial,False,,Withdrawn
+TR500866,P100866,CAR-T Glioma Study,Phase III,False,,Not Applicable
+TR500867,P100867,Standard of Care Registry,Phase II,False,,Withdrawn
+TR500868,P100868,CAR-T Glioma Study,Not in Trial,True,2023-09-05,Ongoing
+TR500869,P100869,Radiomics Biomarker Trial,Phase II,False,,Withdrawn
+TR500870,P100870,mRNA Personalized Vaccine Study,Observational,True,2022-03-08,Completed
+TR500871,P100871,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500872,P100872,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500873,P100873,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500874,P100874,Standard of Care Registry,Not in Trial,False,,Completed
+TR500875,P100875,mRNA Personalized Vaccine Study,Observational,True,2022-05-01,Ongoing
+TR500876,P100876,Radiomics Biomarker Trial,Phase II,False,,Ongoing
+TR500877,P100877,EGFR-targeted Study,Not in Trial,True,2023-05-21,Not Applicable
+TR500878,P100878,Standard of Care Registry,Not in Trial,True,2021-01-04,Not Applicable
+TR500879,P100879,Standard of Care Registry,Observational,True,2022-01-08,Withdrawn
+TR500880,P100880,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500881,P100881,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500882,P100882,Standard of Care Registry,Observational,False,,Withdrawn
+TR500883,P100883,EGFR-targeted Study,Phase II,False,,Completed
+TR500884,P100884,Immuno-GBM Study,Phase II,False,,Not Applicable
+TR500885,P100885,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500886,P100886,Immuno-GBM Study,Phase II,False,,Withdrawn
+TR500887,P100887,EGFR-targeted Study,Phase I,False,,Ongoing
+TR500888,P100888,CAR-T Glioma Study,Phase II,False,,Completed
+TR500889,P100889,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500890,P100890,Immuno-GBM Study,Phase I,False,,Completed
+TR500891,P100891,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500892,P100892,Radiomics Biomarker Trial,Phase I,False,,Ongoing
+TR500893,P100893,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500894,P100894,Immuno-GBM Study,Observational,True,2024-07-01,Withdrawn
+TR500895,P100895,CAR-T Glioma Study,Phase II,False,,Ongoing
+TR500896,P100896,Standard of Care Registry,Phase II,False,,Withdrawn
+TR500897,P100897,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500898,P100898,EGFR-targeted Study,Not in Trial,True,2023-09-16,Withdrawn
+TR500899,P100899,CAR-T Glioma Study,Not in Trial,True,2023-02-22,Withdrawn
+TR500900,P100900,Radiomics Biomarker Trial,Observational,False,,Ongoing
+TR500901,P100901,mRNA Personalized Vaccine Study,Not in Trial,True,2023-08-17,Completed
+TR500902,P100902,Immuno-GBM Study,Not in Trial,True,2020-09-22,Withdrawn
+TR500903,P100903,Standard of Care Registry,Observational,False,,Withdrawn
+TR500904,P100904,Radiomics Biomarker Trial,Phase II,False,,Completed
+TR500905,P100905,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500906,P100906,Immuno-GBM Study,Observational,True,2024-10-13,Ongoing
+TR500907,P100907,mRNA Personalized Vaccine Study,Not in Trial,True,2025-05-30,Completed
+TR500908,P100908,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500909,P100909,CAR-T Glioma Study,Phase II,False,,Ongoing
+TR500910,P100910,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500911,P100911,mRNA Personalized Vaccine Study,Phase II,True,2020-12-27,Not Applicable
+TR500912,P100912,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500913,P100913,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500914,P100914,Radiomics Biomarker Trial,Observational,False,,Completed
+TR500915,P100915,mRNA Personalized Vaccine Study,Phase II,False,,Ongoing
+TR500916,P100916,CAR-T Glioma Study,Phase I,False,,Ongoing
+TR500917,P100917,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500918,P100918,CAR-T Glioma Study,Observational,False,,Ongoing
+TR500919,P100919,Radiomics Biomarker Trial,Not in Trial,False,,Not Applicable
+TR500920,P100920,CAR-T Glioma Study,Phase III,False,,Withdrawn
+TR500921,P100921,Immuno-GBM Study,Not in Trial,True,2020-03-15,Not Applicable
+TR500922,P100922,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500923,P100923,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500924,P100924,mRNA Personalized Vaccine Study,Phase II,True,2024-10-31,Not Applicable
+TR500925,P100925,EGFR-targeted Study,Observational,True,2022-12-02,Ongoing
+TR500926,P100926,CAR-T Glioma Study,Phase III,False,,Withdrawn
+TR500927,P100927,Standard of Care Registry,Observational,True,2021-10-11,Completed
+TR500928,P100928,mRNA Personalized Vaccine Study,Phase I,False,,Ongoing
+TR500929,P100929,mRNA Personalized Vaccine Study,Not in Trial,True,2023-09-23,Completed
+TR500930,P100930,Radiomics Biomarker Trial,Not in Trial,False,,Withdrawn
+TR500931,P100931,Immuno-GBM Study,Phase I,False,,Withdrawn
+TR500932,P100932,Standard of Care Registry,Observational,False,,Withdrawn
+TR500933,P100933,mRNA Personalized Vaccine Study,Phase II,True,2021-11-02,Completed
+TR500934,P100934,EGFR-targeted Study,Not in Trial,True,2023-05-19,Ongoing
+TR500935,P100935,mRNA Personalized Vaccine Study,Phase II,True,2024-04-21,Withdrawn
+TR500936,P100936,Radiomics Biomarker Trial,Phase I,True,2023-03-26,Completed
+TR500937,P100937,Radiomics Biomarker Trial,Phase III,True,2020-04-10,Withdrawn
+TR500938,P100938,EGFR-targeted Study,Phase I,False,,Ongoing
+TR500939,P100939,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500940,P100940,mRNA Personalized Vaccine Study,Not in Trial,False,,Ongoing
+TR500941,P100941,mRNA Personalized Vaccine Study,Not in Trial,True,2025-02-24,Not Applicable
+TR500942,P100942,mRNA Personalized Vaccine Study,Observational,False,,Ongoing
+TR500943,P100943,EGFR-targeted Study,Observational,True,2020-01-09,Ongoing
+TR500944,P100944,CAR-T Glioma Study,Not in Trial,True,2024-07-15,Withdrawn
+TR500945,P100945,mRNA Personalized Vaccine Study,Phase II,True,2020-11-21,Completed
+TR500946,P100946,Radiomics Biomarker Trial,Observational,True,2023-08-21,Ongoing
+TR500947,P100947,CAR-T Glioma Study,Not in Trial,True,2021-03-23,Completed
+TR500948,P100948,EGFR-targeted Study,Observational,False,,Completed
+TR500949,P100949,Standard of Care Registry,Not in Trial,True,2022-12-07,Withdrawn
+TR500950,P100950,Radiomics Biomarker Trial,Phase III,False,,Not Applicable
+TR500951,P100951,CAR-T Glioma Study,Phase II,True,2021-03-08,Not Applicable
+TR500952,P100952,mRNA Personalized Vaccine Study,Observational,False,,Withdrawn
+TR500953,P100953,CAR-T Glioma Study,Observational,False,,Withdrawn
+TR500954,P100954,Immuno-GBM Study,Phase I,False,,Not Applicable
+TR500955,P100955,CAR-T Glioma Study,Phase I,False,,Ongoing
+TR500956,P100956,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500957,P100957,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500958,P100958,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500959,P100959,Radiomics Biomarker Trial,Observational,True,2021-05-26,Ongoing
+TR500960,P100960,CAR-T Glioma Study,Not in Trial,False,,Completed
+TR500961,P100961,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500962,P100962,Immuno-GBM Study,Not in Trial,False,,Ongoing
+TR500963,P100963,Radiomics Biomarker Trial,Phase II,False,,Not Applicable
+TR500964,P100964,Standard of Care Registry,Observational,False,,Ongoing
+TR500965,P100965,CAR-T Glioma Study,Not in Trial,False,,Not Applicable
+TR500966,P100966,mRNA Personalized Vaccine Study,Not in Trial,False,,Not Applicable
+TR500967,P100967,Radiomics Biomarker Trial,Not in Trial,False,,Completed
+TR500968,P100968,Standard of Care Registry,Phase II,True,2024-10-23,Completed
+TR500969,P100969,CAR-T Glioma Study,Phase II,False,,Ongoing
+TR500970,P100970,CAR-T Glioma Study,Phase I,False,,Completed
+TR500971,P100971,Standard of Care Registry,Observational,True,2022-07-28,Withdrawn
+TR500972,P100972,mRNA Personalized Vaccine Study,Phase I,True,2020-10-15,Withdrawn
+TR500973,P100973,Immuno-GBM Study,Phase I,False,,Not Applicable
+TR500974,P100974,Immuno-GBM Study,Not in Trial,False,,Not Applicable
+TR500975,P100975,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500976,P100976,CAR-T Glioma Study,Phase I,False,,Not Applicable
+TR500977,P100977,Radiomics Biomarker Trial,Phase I,False,,Not Applicable
+TR500978,P100978,Radiomics Biomarker Trial,Not in Trial,True,2023-08-14,Not Applicable
+TR500979,P100979,EGFR-targeted Study,Phase II,False,,Completed
+TR500980,P100980,mRNA Personalized Vaccine Study,Observational,False,,Withdrawn
+TR500981,P100981,Standard of Care Registry,Not in Trial,False,,Withdrawn
+TR500982,P100982,Immuno-GBM Study,Not in Trial,True,2023-03-07,Ongoing
+TR500983,P100983,mRNA Personalized Vaccine Study,Phase I,False,,Completed
+TR500984,P100984,EGFR-targeted Study,Not in Trial,False,,Completed
+TR500985,P100985,Immuno-GBM Study,Not in Trial,False,,Completed
+TR500986,P100986,Standard of Care Registry,Not in Trial,False,,Not Applicable
+TR500987,P100987,CAR-T Glioma Study,Phase III,True,2021-01-31,Completed
+TR500988,P100988,Standard of Care Registry,Observational,False,,Not Applicable
+TR500989,P100989,EGFR-targeted Study,Phase I,False,,Completed
+TR500990,P100990,EGFR-targeted Study,Not in Trial,False,,Withdrawn
+TR500991,P100991,EGFR-targeted Study,Observational,False,,Completed
+TR500992,P100992,Immuno-GBM Study,Not in Trial,False,,Withdrawn
+TR500993,P100993,EGFR-targeted Study,Phase II,True,2021-11-13,Not Applicable
+TR500994,P100994,Immuno-GBM Study,Phase I,False,,Ongoing
+TR500995,P100995,Radiomics Biomarker Trial,Observational,True,2022-04-21,Ongoing
+TR500996,P100996,EGFR-targeted Study,Phase I,False,,Ongoing
+TR500997,P100997,CAR-T Glioma Study,Observational,False,,Completed
+TR500998,P100998,Radiomics Biomarker Trial,Phase I,True,2022-01-29,Ongoing
+TR500999,P100999,EGFR-targeted Study,Observational,True,2022-04-17,Ongoing

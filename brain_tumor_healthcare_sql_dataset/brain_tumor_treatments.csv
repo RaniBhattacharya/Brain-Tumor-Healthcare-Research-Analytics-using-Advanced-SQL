@@ -1,0 +1,1001 @@
+treatment_id,patient_id,treatment_type,start_date,end_date,response_category,survival_months
+T400000,P100000,Targeted Therapy,2021-06-08,2021-07-07,Complete Response,2.3
+T400001,P100001,Surgery,2023-02-09,2024-03-14,Stable Disease,4.4
+T400002,P100002,Combination,2021-04-27,2022-05-03,Stable Disease,15.6
+T400003,P100003,Combination,2024-01-30,2024-11-23,Partial Response,20.1
+T400004,P100004,Combination,2024-12-23,2025-06-14,Progressive Disease,62.1
+T400005,P100005,Targeted Therapy,2021-04-28,2022-04-25,Partial Response,81.1
+T400006,P100006,Surgery,2022-01-22,2023-01-16,Partial Response,9.9
+T400007,P100007,mRNA Vaccine Trial,2025-07-15,2025-08-25,Partial Response,31.1
+T400008,P100008,Targeted Therapy,2025-01-24,2025-09-17,Stable Disease,11.8
+T400009,P100009,Targeted Therapy,2021-04-25,2022-01-14,Stable Disease,110.3
+T400010,P100010,Combination,2022-07-31,2022-08-17,Stable Disease,18.8
+T400011,P100011,mRNA Vaccine Trial,2023-12-27,2024-05-03,Progressive Disease,8.9
+T400012,P100012,Immunotherapy,2021-01-08,2021-02-24,Complete Response,7.8
+T400013,P100013,Radiotherapy,2023-03-04,2023-06-22,Partial Response,19.9
+T400014,P100014,Surgery,2021-10-10,2022-02-15,Progressive Disease,21.6
+T400015,P100015,Chemotherapy,2025-01-28,2025-09-19,Progressive Disease,3.4
+T400016,P100016,Radiotherapy,2023-08-26,2024-02-11,Stable Disease,69.2
+T400017,P100017,Immunotherapy,2023-02-10,2023-09-17,Stable Disease,7.8
+T400018,P100018,Radiotherapy,2021-03-26,2021-07-28,Progressive Disease,18.1
+T400019,P100019,Radiotherapy,2020-08-27,2020-12-17,Stable Disease,23.6
+T400020,P100020,Combination,2022-04-03,2022-08-15,Progressive Disease,88.5
+T400021,P100021,Targeted Therapy,2025-04-28,2026-03-12,Progressive Disease,12.9
+T400022,P100022,Chemotherapy,2024-05-04,2024-12-23,Stable Disease,29.9
+T400023,P100023,Surgery,2025-06-07,2025-07-19,Progressive Disease,43.0
+T400024,P100024,Surgery,2023-07-13,2023-11-01,Partial Response,60.3
+T400025,P100025,Surgery,2020-12-31,2021-04-21,Partial Response,11.7
+T400026,P100026,Surgery,2020-10-02,2021-06-05,Partial Response,67.3
+T400027,P100027,Immunotherapy,2025-05-08,2025-12-18,Partial Response,1.0
+T400028,P100028,Surgery,2024-04-24,2025-02-20,Stable Disease,48.6
+T400029,P100029,Targeted Therapy,2020-12-21,2021-08-31,Complete Response,31.1
+T400030,P100030,Combination,2023-02-03,2023-08-22,Partial Response,36.6
+T400031,P100031,Chemotherapy,2022-07-18,2023-06-02,Progressive Disease,8.9
+T400032,P100032,Immunotherapy,2020-04-05,2020-12-14,Complete Response,21.7
+T400033,P100033,Radiotherapy,2024-02-12,2024-04-01,Progressive Disease,68.0
+T400034,P100034,Combination,2020-07-02,2021-04-10,Partial Response,1.7
+T400035,P100035,Immunotherapy,2020-10-13,2021-05-02,Stable Disease,107.6
+T400036,P100036,Chemotherapy,2022-05-07,2023-02-25,Stable Disease,14.8
+T400037,P100037,Surgery,2022-04-29,2023-05-07,Stable Disease,28.0
+T400038,P100038,Surgery,2020-05-16,2020-05-25,Complete Response,71.6
+T400039,P100039,Chemotherapy,2022-08-22,2023-03-08,Stable Disease,18.8
+T400040,P100040,Combination,2025-05-04,2025-11-29,Progressive Disease,19.4
+T400041,P100041,Radiotherapy,2023-02-12,2023-07-26,Stable Disease,12.1
+T400042,P100042,Chemotherapy,2021-04-08,2021-05-04,Progressive Disease,20.4
+T400043,P100043,Surgery,2021-08-25,2022-06-17,Partial Response,5.5
+T400044,P100044,Immunotherapy,2024-06-08,2025-07-04,Progressive Disease,51.2
+T400045,P100045,Chemotherapy,2020-05-30,2021-04-27,Progressive Disease,13.7
+T400046,P100046,Targeted Therapy,2023-05-22,2023-12-12,Progressive Disease,134.5
+T400047,P100047,Immunotherapy,2020-06-28,2021-03-06,Complete Response,13.4
+T400048,P100048,Immunotherapy,2022-05-16,2023-05-19,Progressive Disease,1.4
+T400049,P100049,Targeted Therapy,2020-07-27,2020-10-17,Partial Response,68.5
+T400050,P100050,Chemotherapy,2021-04-06,2021-06-27,Partial Response,54.8
+T400051,P100051,Targeted Therapy,2021-11-05,2022-10-17,Progressive Disease,11.3
+T400052,P100052,Surgery,2023-04-17,2023-06-10,Stable Disease,5.5
+T400053,P100053,Combination,2025-04-20,2026-04-23,Stable Disease,19.0
+T400054,P100054,Combination,2024-10-06,2025-01-17,Progressive Disease,16.8
+T400055,P100055,Surgery,2023-01-15,2023-05-31,Progressive Disease,22.8
+T400056,P100056,Chemotherapy,2025-01-06,2025-12-16,Progressive Disease,26.9
+T400057,P100057,Chemotherapy,2020-12-30,2021-08-04,Progressive Disease,19.4
+T400058,P100058,Combination,2024-01-02,2024-02-23,Partial Response,22.3
+T400059,P100059,Chemotherapy,2020-06-04,2020-12-04,Progressive Disease,9.5
+T400060,P100060,Radiotherapy,2020-10-07,2021-11-01,Stable Disease,11.4
+T400061,P100061,Radiotherapy,2023-03-04,2023-11-17,Complete Response,43.0
+T400062,P100062,Surgery,2020-12-15,2021-07-23,Stable Disease,9.4
+T400063,P100063,Targeted Therapy,2020-11-03,2021-06-18,Partial Response,109.0
+T400064,P100064,Radiotherapy,2024-12-12,2025-02-25,Partial Response,13.3
+T400065,P100065,Surgery,2022-02-23,2022-04-27,Stable Disease,40.1
+T400066,P100066,Immunotherapy,2021-05-10,2021-08-27,Complete Response,23.9
+T400067,P100067,Surgery,2021-12-29,2022-04-13,Partial Response,11.6
+T400068,P100068,Combination,2022-03-20,2022-11-07,Stable Disease,10.6
+T400069,P100069,Targeted Therapy,2022-02-10,2023-01-08,Partial Response,4.9
+T400070,P100070,Radiotherapy,2021-11-27,2022-02-05,Partial Response,17.8
+T400071,P100071,Radiotherapy,2023-11-29,2024-04-04,Stable Disease,4.9
+T400072,P100072,Targeted Therapy,2021-01-06,2021-01-17,Complete Response,7.8
+T400073,P100073,Immunotherapy,2024-02-01,2025-01-13,Stable Disease,13.1
+T400074,P100074,Combination,2025-01-22,2025-05-17,Stable Disease,38.7
+T400075,P100075,Surgery,2023-01-07,2023-10-07,Progressive Disease,8.0
+T400076,P100076,Immunotherapy,2025-04-28,2026-01-08,Stable Disease,7.0
+T400077,P100077,Radiotherapy,2025-02-13,2025-08-11,Stable Disease,79.8
+T400078,P100078,mRNA Vaccine Trial,2023-12-18,2024-04-25,Progressive Disease,38.3
+T400079,P100079,Targeted Therapy,2022-03-11,2023-01-24,Complete Response,12.6
+T400080,P100080,Radiotherapy,2020-01-22,2020-03-20,Complete Response,17.7
+T400081,P100081,mRNA Vaccine Trial,2023-09-27,2024-10-09,Progressive Disease,53.8
+T400082,P100082,Combination,2022-08-28,2023-07-09,Partial Response,88.0
+T400083,P100083,Chemotherapy,2022-01-16,2023-01-16,Progressive Disease,32.4
+T400084,P100084,Surgery,2020-11-25,2021-10-14,Progressive Disease,6.6
+T400085,P100085,mRNA Vaccine Trial,2024-05-24,2024-12-28,Progressive Disease,9.6
+T400086,P100086,Surgery,2024-02-20,2024-08-09,Complete Response,17.0
+T400087,P100087,Radiotherapy,2020-01-14,2021-01-31,Partial Response,1.0
+T400088,P100088,Chemotherapy,2023-01-03,2023-09-15,Stable Disease,8.1
+T400089,P100089,Targeted Therapy,2022-07-28,2023-01-29,Stable Disease,6.8
+T400090,P100090,Combination,2021-12-09,2022-08-16,Progressive Disease,61.4
+T400091,P100091,mRNA Vaccine Trial,2025-03-29,2025-05-26,Progressive Disease,19.9
+T400092,P100092,Radiotherapy,2021-06-26,2022-07-02,Partial Response,72.1
+T400093,P100093,Chemotherapy,2022-07-25,2023-08-02,Stable Disease,50.3
+T400094,P100094,Surgery,2023-03-02,2023-04-22,Partial Response,11.5
+T400095,P100095,Targeted Therapy,2024-01-21,2024-09-23,Partial Response,10.1
+T400096,P100096,Chemotherapy,2022-05-08,2023-01-16,Progressive Disease,27.4
+T400097,P100097,Surgery,2025-05-04,2025-08-06,Progressive Disease,7.4
+T400098,P100098,Targeted Therapy,2021-09-08,2021-11-08,Stable Disease,34.2
+T400099,P100099,Immunotherapy,2023-05-30,2023-11-20,Progressive Disease,56.1
+T400100,P100100,Immunotherapy,2022-03-21,2023-03-31,Partial Response,8.7
+T400101,P100101,Chemotherapy,2020-11-14,2021-10-30,Partial Response,12.2
+T400102,P100102,Surgery,2023-10-23,2024-09-18,Progressive Disease,11.0
+T400103,P100103,Surgery,2021-02-20,2021-08-16,Progressive Disease,36.3
+T400104,P100104,Combination,2022-01-10,2022-11-20,Complete Response,7.4
+T400105,P100105,Radiotherapy,2020-04-07,2021-04-16,Progressive Disease,24.1
+T400106,P100106,Immunotherapy,2025-06-24,2026-05-25,Progressive Disease,29.4
+T400107,P100107,Combination,2020-12-05,2021-04-10,Partial Response,16.0
+T400108,P100108,Surgery,2021-03-27,2021-05-30,Complete Response,92.2
+T400109,P100109,Immunotherapy,2024-05-09,2024-08-20,Progressive Disease,3.9
+T400110,P100110,Surgery,2021-10-23,2022-01-03,Progressive Disease,24.0
+T400111,P100111,Combination,2023-06-02,2024-06-20,Complete Response,17.3
+T400112,P100112,Surgery,2023-06-17,2023-09-29,Progressive Disease,77.3
+T400113,P100113,Combination,2022-02-17,2022-08-29,Progressive Disease,7.5
+T400114,P100114,Combination,2024-08-19,2025-05-19,Progressive Disease,6.1
+T400115,P100115,Chemotherapy,2024-08-30,2025-03-27,Complete Response,4.6
+T400116,P100116,mRNA Vaccine Trial,2023-09-14,2023-12-04,Progressive Disease,14.7
+T400117,P100117,Radiotherapy,2024-09-01,2025-05-21,Progressive Disease,65.9
+T400118,P100118,Surgery,2020-07-14,2020-10-03,Progressive Disease,16.0
+T400119,P100119,Immunotherapy,2023-11-21,2024-11-21,Complete Response,83.6
+T400120,P100120,Radiotherapy,2022-10-27,2023-10-21,Partial Response,45.9
+T400121,P100121,Combination,2024-01-21,2024-11-16,Stable Disease,7.6
+T400122,P100122,Immunotherapy,2021-06-09,2021-11-12,Progressive Disease,52.3
+T400123,P100123,Radiotherapy,2023-10-05,2024-03-30,Partial Response,67.6
+T400124,P100124,Immunotherapy,2024-01-10,2025-01-26,Progressive Disease,21.8
+T400125,P100125,Surgery,2023-02-08,2023-03-13,Progressive Disease,34.0
+T400126,P100126,Immunotherapy,2022-09-10,2023-05-24,Progressive Disease,69.1
+T400127,P100127,Radiotherapy,2021-11-29,2022-11-08,Progressive Disease,13.3
+T400128,P100128,Surgery,2022-09-19,2023-07-03,Stable Disease,12.0
+T400129,P100129,Chemotherapy,2024-10-01,2025-04-04,Progressive Disease,3.8
+T400130,P100130,Radiotherapy,2024-01-23,2025-02-05,Partial Response,12.5
+T400131,P100131,Targeted Therapy,2021-09-02,2022-09-02,Progressive Disease,17.3
+T400132,P100132,Radiotherapy,2022-08-27,2023-02-15,Progressive Disease,32.7
+T400133,P100133,Chemotherapy,2025-06-01,2025-07-05,Progressive Disease,19.7
+T400134,P100134,Immunotherapy,2023-08-11,2024-07-18,Partial Response,69.6
+T400135,P100135,Surgery,2020-08-06,2021-04-17,Partial Response,18.7
+T400136,P100136,Surgery,2024-06-20,2025-07-15,Partial Response,99.2
+T400137,P100137,Targeted Therapy,2021-09-23,2022-10-06,Progressive Disease,4.6
+T400138,P100138,Surgery,2025-07-09,2025-09-29,Stable Disease,84.8
+T400139,P100139,Combination,2020-12-30,2021-04-02,Progressive Disease,11.0
+T400140,P100140,Surgery,2022-08-10,2022-11-16,Progressive Disease,17.6
+T400141,P100141,Surgery,2021-09-03,2022-08-08,Partial Response,15.2
+T400142,P100142,Chemotherapy,2024-06-17,2025-05-11,Progressive Disease,15.3
+T400143,P100143,Surgery,2020-11-08,2021-03-18,Stable Disease,18.3
+T400144,P100144,Radiotherapy,2023-06-10,2023-09-13,Progressive Disease,9.5
+T400145,P100145,Radiotherapy,2024-01-17,2025-01-01,Progressive Disease,6.1
+T400146,P100146,Immunotherapy,2023-07-03,2024-06-06,Stable Disease,49.1
+T400147,P100147,Targeted Therapy,2020-08-03,2021-02-14,Complete Response,13.8
+T400148,P100148,Surgery,2023-10-15,2024-06-28,Stable Disease,1.4
+T400149,P100149,Combination,2022-12-12,2022-12-30,Stable Disease,141.3
+T400150,P100150,Combination,2024-08-24,2025-01-18,Progressive Disease,32.8
+T400151,P100151,Surgery,2023-11-10,2024-02-17,Stable Disease,7.5
+T400152,P100152,Combination,2023-11-01,2024-06-17,Partial Response,34.1
+T400153,P100153,Surgery,2021-11-13,2021-12-22,Progressive Disease,32.3
+T400154,P100154,mRNA Vaccine Trial,2024-12-19,2025-03-30,Stable Disease,194.1
+T400155,P100155,Immunotherapy,2023-07-24,2024-05-10,Progressive Disease,13.1
+T400156,P100156,Immunotherapy,2025-04-16,2025-12-29,Complete Response,10.5
+T400157,P100157,Immunotherapy,2023-08-17,2024-08-23,Progressive Disease,67.5
+T400158,P100158,Targeted Therapy,2023-03-25,2024-04-20,Partial Response,11.6
+T400159,P100159,Targeted Therapy,2022-08-10,2022-11-17,Progressive Disease,1.0
+T400160,P100160,Targeted Therapy,2023-12-15,2024-10-01,Stable Disease,27.4
+T400161,P100161,Radiotherapy,2023-02-04,2023-04-17,Stable Disease,32.7
+T400162,P100162,Targeted Therapy,2024-12-10,2025-09-30,Partial Response,10.2
+T400163,P100163,Immunotherapy,2021-12-02,2022-02-10,Stable Disease,4.8
+T400164,P100164,Radiotherapy,2023-05-21,2023-08-23,Stable Disease,22.0
+T400165,P100165,Combination,2021-11-11,2022-03-25,Partial Response,37.0
+T400166,P100166,Combination,2021-02-23,2021-07-30,Progressive Disease,68.4
+T400167,P100167,Chemotherapy,2020-05-05,2021-01-18,Progressive Disease,6.4
+T400168,P100168,Chemotherapy,2023-10-13,2024-08-25,Stable Disease,18.0
+T400169,P100169,Surgery,2021-11-16,2022-10-28,Progressive Disease,8.8
+T400170,P100170,Surgery,2024-01-31,2024-04-19,Partial Response,32.1
+T400171,P100171,Immunotherapy,2024-05-27,2025-04-07,Stable Disease,34.6
+T400172,P100172,Chemotherapy,2024-10-27,2025-01-07,Progressive Disease,37.0
+T400173,P100173,Chemotherapy,2025-01-26,2025-06-12,Partial Response,2.5
+T400174,P100174,Targeted Therapy,2023-11-12,2024-06-10,Stable Disease,115.3
+T400175,P100175,Combination,2024-05-19,2024-12-29,Progressive Disease,5.9
+T400176,P100176,Surgery,2020-04-17,2020-05-30,Stable Disease,43.5
+T400177,P100177,Radiotherapy,2021-06-24,2022-06-22,Stable Disease,6.1
+T400178,P100178,Immunotherapy,2021-01-29,2022-01-07,Stable Disease,151.4
+T400179,P100179,Chemotherapy,2025-02-22,2025-10-01,Progressive Disease,130.8
+T400180,P100180,Radiotherapy,2021-07-26,2022-03-12,Stable Disease,83.4
+T400181,P100181,Combination,2022-07-08,2022-08-23,Partial Response,96.8
+T400182,P100182,Chemotherapy,2021-07-09,2022-04-22,Stable Disease,27.0
+T400183,P100183,Radiotherapy,2020-08-11,2021-02-19,Progressive Disease,26.1
+T400184,P100184,Immunotherapy,2023-12-12,2024-04-12,Partial Response,15.1
+T400185,P100185,Surgery,2024-11-20,2025-06-08,Progressive Disease,16.5
+T400186,P100186,Immunotherapy,2021-08-16,2021-11-20,Stable Disease,37.5
+T400187,P100187,mRNA Vaccine Trial,2021-07-04,2022-03-18,Complete Response,20.3
+T400188,P100188,Radiotherapy,2022-07-27,2022-12-25,Stable Disease,76.1
+T400189,P100189,Targeted Therapy,2021-10-23,2021-11-23,Partial Response,171.2
+T400190,P100190,Combination,2024-12-23,2025-04-01,Partial Response,11.5
+T400191,P100191,Immunotherapy,2021-07-30,2022-05-05,Stable Disease,4.3
+T400192,P100192,mRNA Vaccine Trial,2022-09-11,2023-05-20,Stable Disease,7.1
+T400193,P100193,Radiotherapy,2022-05-06,2023-01-30,Progressive Disease,18.9
+T400194,P100194,Targeted Therapy,2023-01-12,2023-07-31,Stable Disease,70.3
+T400195,P100195,Radiotherapy,2023-06-09,2024-06-21,Stable Disease,43.7
+T400196,P100196,Radiotherapy,2023-08-10,2023-12-22,Progressive Disease,35.6
+T400197,P100197,Chemotherapy,2024-09-12,2024-12-21,Stable Disease,17.6
+T400198,P100198,Radiotherapy,2025-05-20,2026-02-08,Partial Response,60.6
+T400199,P100199,Combination,2023-02-07,2024-02-16,Progressive Disease,13.9
+T400200,P100200,Immunotherapy,2023-12-16,2024-11-12,Progressive Disease,4.7
+T400201,P100201,Combination,2022-05-25,2022-11-08,Progressive Disease,74.0
+T400202,P100202,Targeted Therapy,2020-03-12,2021-03-27,Partial Response,71.3
+T400203,P100203,Surgery,2022-02-17,2022-03-25,Complete Response,99.6
+T400204,P100204,Radiotherapy,2020-07-02,2021-03-18,Progressive Disease,3.6
+T400205,P100205,Surgery,2024-10-13,2025-05-25,Progressive Disease,23.4
+T400206,P100206,Combination,2025-06-19,2026-02-26,Stable Disease,5.3
+T400207,P100207,Targeted Therapy,2023-04-14,2024-01-18,Progressive Disease,15.9
+T400208,P100208,Chemotherapy,2024-12-25,2025-04-08,Progressive Disease,15.1
+T400209,P100209,Immunotherapy,2021-09-04,2022-04-16,Progressive Disease,72.2
+T400210,P100210,Immunotherapy,2023-09-30,2024-10-19,Progressive Disease,19.5
+T400211,P100211,Combination,2023-06-15,2024-03-18,Progressive Disease,7.5
+T400212,P100212,Surgery,2022-06-09,2022-09-10,Progressive Disease,13.4
+T400213,P100213,mRNA Vaccine Trial,2022-02-13,2022-06-15,Partial Response,5.7
+T400214,P100214,Radiotherapy,2023-06-21,2024-03-17,Stable Disease,49.9
+T400215,P100215,Surgery,2020-06-04,2020-12-22,Partial Response,1.0
+T400216,P100216,Combination,2025-02-27,2026-02-16,Partial Response,77.2
+T400217,P100217,Chemotherapy,2020-11-03,2021-01-09,Partial Response,10.4
+T400218,P100218,Chemotherapy,2022-03-07,2022-07-01,Complete Response,25.2
+T400219,P100219,Targeted Therapy,2020-08-16,2020-12-12,Progressive Disease,54.7
+T400220,P100220,Combination,2025-02-02,2025-10-30,Progressive Disease,27.8
+T400221,P100221,Surgery,2024-03-03,2025-01-20,Progressive Disease,94.8
+T400222,P100222,Surgery,2025-05-06,2026-03-24,Stable Disease,15.0
+T400223,P100223,Radiotherapy,2022-06-09,2022-06-18,Partial Response,27.5
+T400224,P100224,Immunotherapy,2023-03-21,2023-09-25,Complete Response,57.4
+T400225,P100225,Chemotherapy,2023-10-06,2023-11-25,Stable Disease,9.8
+T400226,P100226,mRNA Vaccine Trial,2023-04-24,2023-07-03,Progressive Disease,35.7
+T400227,P100227,Surgery,2020-09-27,2021-09-05,Partial Response,116.9
+T400228,P100228,Chemotherapy,2021-05-01,2021-10-08,Stable Disease,18.9
+T400229,P100229,mRNA Vaccine Trial,2020-03-28,2020-08-19,Partial Response,29.8
+T400230,P100230,Chemotherapy,2021-11-16,2022-07-05,Partial Response,8.2
+T400231,P100231,Radiotherapy,2023-10-05,2023-10-14,Stable Disease,13.9
+T400232,P100232,mRNA Vaccine Trial,2020-07-18,2020-09-19,Partial Response,42.7
+T400233,P100233,Surgery,2022-02-21,2022-10-01,Progressive Disease,3.2
+T400234,P100234,Combination,2020-11-24,2021-11-07,Partial Response,26.0
+T400235,P100235,Chemotherapy,2023-10-29,2024-03-20,Partial Response,133.5
+T400236,P100236,Chemotherapy,2024-04-26,2025-04-17,Progressive Disease,54.6
+T400237,P100237,Radiotherapy,2023-12-08,2024-07-06,Stable Disease,66.9
+T400238,P100238,Combination,2022-05-12,2022-12-04,Partial Response,112.6
+T400239,P100239,Combination,2024-06-09,2024-06-26,Partial Response,8.5
+T400240,P100240,Radiotherapy,2024-03-09,2025-04-12,Progressive Disease,18.7
+T400241,P100241,Surgery,2022-12-13,2023-06-13,Stable Disease,3.1
+T400242,P100242,Chemotherapy,2022-06-12,2023-01-27,Stable Disease,12.6
+T400243,P100243,Radiotherapy,2023-03-25,2024-04-24,Stable Disease,25.9
+T400244,P100244,Targeted Therapy,2021-12-12,2022-09-06,Partial Response,17.1
+T400245,P100245,Radiotherapy,2020-07-06,2020-11-24,Progressive Disease,77.9
+T400246,P100246,Surgery,2020-08-01,2021-03-15,Partial Response,57.7
+T400247,P100247,Immunotherapy,2021-01-30,2021-03-30,Progressive Disease,13.9
+T400248,P100248,Chemotherapy,2025-02-09,2025-05-23,Progressive Disease,4.1
+T400249,P100249,Chemotherapy,2020-12-08,2021-03-01,Partial Response,19.2
+T400250,P100250,Surgery,2020-11-11,2021-04-07,Progressive Disease,13.0
+T400251,P100251,Combination,2024-05-02,2024-05-18,Stable Disease,23.6
+T400252,P100252,Surgery,2023-07-28,2024-02-14,Stable Disease,38.2
+T400253,P100253,Radiotherapy,2022-09-27,2023-01-30,Partial Response,12.5
+T400254,P100254,Chemotherapy,2020-06-03,2021-02-26,Stable Disease,41.0
+T400255,P100255,Surgery,2021-08-17,2022-01-08,Stable Disease,1.9
+T400256,P100256,Combination,2023-05-18,2023-12-25,Partial Response,73.0
+T400257,P100257,mRNA Vaccine Trial,2021-01-31,2021-02-27,Complete Response,9.5
+T400258,P100258,Targeted Therapy,2022-07-31,2022-11-23,Partial Response,11.9
+T400259,P100259,Radiotherapy,2020-04-28,2020-06-25,Stable Disease,5.6
+T400260,P100260,Radiotherapy,2022-02-15,2022-08-27,Partial Response,55.5
+T400261,P100261,Surgery,2023-06-20,2023-07-03,Progressive Disease,61.9
+T400262,P100262,Immunotherapy,2022-03-10,2022-09-02,Stable Disease,10.5
+T400263,P100263,Immunotherapy,2023-07-05,2024-05-08,Stable Disease,14.2
+T400264,P100264,Radiotherapy,2022-01-27,2022-06-24,Partial Response,55.2
+T400265,P100265,Radiotherapy,2021-11-21,2022-01-21,Partial Response,32.5
+T400266,P100266,Immunotherapy,2023-10-11,2023-11-08,Stable Disease,62.6
+T400267,P100267,Combination,2020-03-19,2020-07-01,Partial Response,104.7
+T400268,P100268,Chemotherapy,2024-04-24,2024-06-08,Progressive Disease,26.2
+T400269,P100269,Targeted Therapy,2021-09-16,2022-09-29,Stable Disease,30.0
+T400270,P100270,Immunotherapy,2020-04-21,2021-05-02,Partial Response,47.0
+T400271,P100271,Surgery,2021-01-31,2021-11-15,Progressive Disease,79.4
+T400272,P100272,mRNA Vaccine Trial,2023-12-04,2024-09-22,Progressive Disease,46.3
+T400273,P100273,mRNA Vaccine Trial,2022-08-05,2023-06-30,Progressive Disease,2.5
+T400274,P100274,Combination,2022-08-22,2023-05-03,Stable Disease,5.3
+T400275,P100275,Combination,2022-09-04,2022-09-22,Partial Response,12.6
+T400276,P100276,Radiotherapy,2024-08-07,2025-01-09,Complete Response,46.4
+T400277,P100277,Chemotherapy,2022-10-31,2023-10-28,Partial Response,32.3
+T400278,P100278,Immunotherapy,2020-10-13,2021-10-05,Stable Disease,42.0
+T400279,P100279,Chemotherapy,2020-11-01,2021-01-31,Stable Disease,7.2
+T400280,P100280,Chemotherapy,2025-04-24,2025-11-16,Stable Disease,64.1
+T400281,P100281,Radiotherapy,2022-03-12,2022-03-20,Partial Response,12.0
+T400282,P100282,Surgery,2024-10-28,2024-11-08,Progressive Disease,10.9
+T400283,P100283,Immunotherapy,2022-09-23,2023-06-14,Progressive Disease,11.3
+T400284,P100284,Chemotherapy,2020-02-27,2020-06-25,Partial Response,30.9
+T400285,P100285,Radiotherapy,2022-12-23,2023-03-27,Partial Response,18.9
+T400286,P100286,Chemotherapy,2021-05-21,2021-06-17,Stable Disease,11.0
+T400287,P100287,Combination,2022-11-06,2023-01-20,Partial Response,9.9
+T400288,P100288,Immunotherapy,2024-02-21,2024-07-04,Progressive Disease,118.5
+T400289,P100289,Surgery,2023-03-21,2023-03-28,Stable Disease,9.9
+T400290,P100290,Targeted Therapy,2022-01-31,2022-07-23,Complete Response,69.8
+T400291,P100291,Immunotherapy,2023-03-15,2023-08-04,Progressive Disease,56.4
+T400292,P100292,Chemotherapy,2022-03-14,2022-08-18,Partial Response,13.3
+T400293,P100293,Surgery,2024-04-02,2024-04-14,Progressive Disease,111.7
+T400294,P100294,Surgery,2022-01-08,2022-04-15,Partial Response,89.1
+T400295,P100295,Surgery,2022-09-20,2023-07-22,Partial Response,9.9
+T400296,P100296,Immunotherapy,2022-08-19,2023-07-26,Partial Response,3.1
+T400297,P100297,Targeted Therapy,2020-05-03,2021-02-16,Partial Response,10.6
+T400298,P100298,Chemotherapy,2022-09-16,2023-02-07,Partial Response,5.5
+T400299,P100299,Targeted Therapy,2024-07-11,2025-08-07,Stable Disease,8.7
+T400300,P100300,Chemotherapy,2025-02-10,2026-02-23,Stable Disease,10.3
+T400301,P100301,Surgery,2023-12-18,2024-02-10,Stable Disease,9.3
+T400302,P100302,Chemotherapy,2022-07-10,2022-10-15,Partial Response,23.6
+T400303,P100303,Chemotherapy,2021-10-09,2022-01-16,Stable Disease,34.5
+T400304,P100304,Surgery,2022-07-12,2022-10-17,Progressive Disease,7.2
+T400305,P100305,Targeted Therapy,2020-04-08,2020-05-20,Partial Response,105.0
+T400306,P100306,Chemotherapy,2025-05-24,2026-04-26,Progressive Disease,3.6
+T400307,P100307,Surgery,2024-07-31,2024-10-16,Progressive Disease,101.5
+T400308,P100308,Immunotherapy,2022-07-24,2022-09-20,Stable Disease,57.5
+T400309,P100309,Surgery,2022-03-04,2022-03-17,Progressive Disease,7.1
+T400310,P100310,Targeted Therapy,2025-04-29,2025-07-12,Partial Response,42.7
+T400311,P100311,Surgery,2022-12-29,2023-11-22,Stable Disease,139.6
+T400312,P100312,Immunotherapy,2020-08-20,2020-10-20,Stable Disease,69.9
+T400313,P100313,Immunotherapy,2020-10-22,2021-10-26,Complete Response,40.9
+T400314,P100314,Surgery,2021-09-24,2022-07-16,Progressive Disease,49.8
+T400315,P100315,Immunotherapy,2021-01-07,2021-07-02,Stable Disease,22.6
+T400316,P100316,Surgery,2023-11-02,2024-10-28,Partial Response,28.7
+T400317,P100317,Chemotherapy,2024-10-10,2024-11-08,Partial Response,20.5
+T400318,P100318,Radiotherapy,2021-03-19,2021-10-24,Partial Response,83.2
+T400319,P100319,Combination,2022-01-26,2022-05-29,Stable Disease,10.8
+T400320,P100320,Surgery,2021-11-05,2022-04-07,Partial Response,169.9
+T400321,P100321,mRNA Vaccine Trial,2023-04-16,2024-04-08,Progressive Disease,47.9
+T400322,P100322,Immunotherapy,2023-10-31,2024-07-15,Partial Response,65.6
+T400323,P100323,Surgery,2023-08-09,2024-01-07,Stable Disease,21.4
+T400324,P100324,Targeted Therapy,2020-04-30,2020-11-07,Progressive Disease,21.2
+T400325,P100325,Combination,2025-05-25,2025-06-23,Stable Disease,9.5
+T400326,P100326,Surgery,2021-06-30,2021-12-25,Stable Disease,8.3
+T400327,P100327,Targeted Therapy,2023-01-06,2023-12-20,Progressive Disease,13.8
+T400328,P100328,Targeted Therapy,2020-11-29,2021-06-02,Progressive Disease,12.8
+T400329,P100329,Radiotherapy,2025-04-07,2026-03-18,Stable Disease,20.0
+T400330,P100330,Radiotherapy,2024-06-25,2025-07-01,Progressive Disease,12.5
+T400331,P100331,Immunotherapy,2023-08-13,2023-11-04,Progressive Disease,5.5
+T400332,P100332,Surgery,2021-09-19,2022-04-13,Stable Disease,22.0
+T400333,P100333,Immunotherapy,2023-12-11,2024-01-21,Partial Response,42.8
+T400334,P100334,Chemotherapy,2022-01-12,2022-06-10,Partial Response,45.9
+T400335,P100335,Radiotherapy,2024-11-05,2025-02-13,Progressive Disease,19.8
+T400336,P100336,Radiotherapy,2020-09-05,2021-04-17,Stable Disease,120.9
+T400337,P100337,Combination,2020-11-22,2021-10-20,Partial Response,9.3
+T400338,P100338,Immunotherapy,2022-06-16,2022-10-26,Stable Disease,13.0
+T400339,P100339,Chemotherapy,2021-02-26,2021-12-03,Stable Disease,11.7
+T400340,P100340,Chemotherapy,2022-10-29,2023-05-20,Complete Response,13.3
+T400341,P100341,Immunotherapy,2021-04-18,2022-02-14,Progressive Disease,28.0
+T400342,P100342,Immunotherapy,2024-12-26,2025-12-27,Complete Response,10.6
+T400343,P100343,Radiotherapy,2020-10-14,2020-10-29,Stable Disease,14.7
+T400344,P100344,Chemotherapy,2023-03-21,2023-05-23,Complete Response,11.3
+T400345,P100345,Radiotherapy,2022-12-22,2023-03-10,Partial Response,85.4
+T400346,P100346,Surgery,2023-07-29,2024-05-13,Progressive Disease,44.4
+T400347,P100347,Combination,2021-12-10,2022-04-03,Progressive Disease,12.3
+T400348,P100348,Surgery,2022-10-29,2023-01-04,Progressive Disease,6.3
+T400349,P100349,Immunotherapy,2022-09-21,2023-10-08,Complete Response,8.2
+T400350,P100350,Combination,2021-11-25,2021-12-29,Progressive Disease,156.9
+T400351,P100351,Targeted Therapy,2024-09-25,2025-06-03,Progressive Disease,2.6
+T400352,P100352,mRNA Vaccine Trial,2022-10-01,2022-12-22,Stable Disease,23.6
+T400353,P100353,Surgery,2023-10-15,2023-10-28,Stable Disease,122.4
+T400354,P100354,Immunotherapy,2024-11-30,2026-01-02,Partial Response,1.0
+T400355,P100355,Immunotherapy,2025-07-30,2026-05-03,Progressive Disease,6.0
+T400356,P100356,Radiotherapy,2021-01-10,2022-01-21,Partial Response,138.6
+T400357,P100357,Immunotherapy,2020-04-18,2020-05-01,Partial Response,1.0
+T400358,P100358,Surgery,2021-01-01,2021-12-02,Complete Response,2.9
+T400359,P100359,Immunotherapy,2022-09-24,2022-12-22,Complete Response,3.0
+T400360,P100360,Immunotherapy,2023-10-31,2024-06-26,Stable Disease,15.0
+T400361,P100361,Immunotherapy,2025-04-10,2026-02-03,Stable Disease,20.1
+T400362,P100362,Immunotherapy,2024-02-12,2024-05-09,Partial Response,4.8
+T400363,P100363,Surgery,2023-03-12,2023-05-22,Progressive Disease,18.3
+T400364,P100364,Chemotherapy,2023-11-17,2024-03-15,Stable Disease,110.0
+T400365,P100365,Immunotherapy,2024-07-21,2025-06-02,Progressive Disease,14.5
+T400366,P100366,Immunotherapy,2025-02-06,2025-10-15,Partial Response,43.6
+T400367,P100367,Targeted Therapy,2024-02-23,2024-09-11,Partial Response,5.7
+T400368,P100368,Immunotherapy,2021-04-24,2021-12-04,Partial Response,24.4
+T400369,P100369,Surgery,2020-10-12,2021-04-22,Stable Disease,8.9
+T400370,P100370,Immunotherapy,2023-10-04,2024-02-10,Partial Response,61.3
+T400371,P100371,Chemotherapy,2021-11-11,2022-03-06,Stable Disease,14.6
+T400372,P100372,Immunotherapy,2023-02-20,2023-06-03,Stable Disease,208.3
+T400373,P100373,Targeted Therapy,2022-09-06,2023-01-14,Partial Response,21.2
+T400374,P100374,Combination,2024-05-29,2024-06-27,Stable Disease,18.9
+T400375,P100375,Immunotherapy,2025-04-04,2025-05-05,Partial Response,49.8
+T400376,P100376,Combination,2025-02-26,2025-09-03,Progressive Disease,29.0
+T400377,P100377,Combination,2024-12-23,2025-04-08,Partial Response,7.3
+T400378,P100378,Radiotherapy,2025-04-07,2025-06-19,Progressive Disease,10.8
+T400379,P100379,Surgery,2022-11-03,2023-11-24,Stable Disease,19.7
+T400380,P100380,Chemotherapy,2021-12-27,2022-03-20,Complete Response,15.6
+T400381,P100381,Immunotherapy,2024-03-18,2025-01-19,Progressive Disease,9.4
+T400382,P100382,Surgery,2023-06-15,2023-09-07,Progressive Disease,90.8
+T400383,P100383,Surgery,2020-08-23,2020-10-16,Progressive Disease,10.7
+T400384,P100384,Surgery,2021-07-01,2022-06-21,Progressive Disease,17.2
+T400385,P100385,Immunotherapy,2021-09-20,2022-06-10,Stable Disease,105.6
+T400386,P100386,Immunotherapy,2021-06-08,2022-03-09,Progressive Disease,11.1
+T400387,P100387,Radiotherapy,2022-12-15,2023-02-27,Partial Response,5.2
+T400388,P100388,Radiotherapy,2023-08-05,2024-03-19,Complete Response,32.5
+T400389,P100389,Immunotherapy,2023-07-07,2024-01-28,Partial Response,61.6
+T400390,P100390,Combination,2023-02-12,2023-03-29,Progressive Disease,13.0
+T400391,P100391,Chemotherapy,2020-07-17,2020-09-11,Progressive Disease,59.9
+T400392,P100392,Surgery,2023-04-25,2023-10-07,Stable Disease,88.6
+T400393,P100393,Combination,2023-02-23,2023-04-15,Stable Disease,21.6
+T400394,P100394,Chemotherapy,2023-11-04,2024-04-10,Partial Response,12.7
+T400395,P100395,Radiotherapy,2024-08-06,2025-02-09,Complete Response,14.6
+T400396,P100396,Surgery,2020-06-16,2021-02-13,Partial Response,50.1
+T400397,P100397,Chemotherapy,2022-04-06,2023-05-08,Progressive Disease,13.7
+T400398,P100398,Targeted Therapy,2022-05-25,2022-08-03,Progressive Disease,23.3
+T400399,P100399,Chemotherapy,2020-06-13,2020-11-13,Stable Disease,1.7
+T400400,P100400,mRNA Vaccine Trial,2024-06-14,2025-06-04,Partial Response,35.9
+T400401,P100401,Radiotherapy,2022-04-07,2023-02-27,Progressive Disease,15.3
+T400402,P100402,Radiotherapy,2020-11-11,2021-06-17,Stable Disease,9.4
+T400403,P100403,Radiotherapy,2020-11-12,2021-11-03,Complete Response,22.8
+T400404,P100404,Combination,2024-01-15,2025-02-04,Progressive Disease,23.0
+T400405,P100405,Targeted Therapy,2022-09-05,2022-09-16,Partial Response,21.0
+T400406,P100406,Surgery,2024-05-10,2024-08-06,Stable Disease,6.7
+T400407,P100407,mRNA Vaccine Trial,2024-12-28,2025-07-21,Progressive Disease,35.5
+T400408,P100408,Targeted Therapy,2022-07-25,2023-03-27,Stable Disease,9.4
+T400409,P100409,Chemotherapy,2021-06-15,2022-02-15,Partial Response,82.0
+T400410,P100410,Surgery,2021-04-30,2021-11-26,Progressive Disease,8.8
+T400411,P100411,Surgery,2021-11-08,2021-12-18,Partial Response,28.2
+T400412,P100412,Combination,2022-05-27,2022-09-19,Progressive Disease,6.2
+T400413,P100413,Chemotherapy,2024-03-02,2024-10-27,Complete Response,54.0
+T400414,P100414,Surgery,2025-05-12,2025-08-01,Stable Disease,36.6
+T400415,P100415,Radiotherapy,2021-09-08,2022-07-19,Progressive Disease,57.2
+T400416,P100416,Surgery,2021-10-28,2022-05-08,Progressive Disease,6.9
+T400417,P100417,Combination,2023-02-28,2023-04-03,Partial Response,56.6
+T400418,P100418,Surgery,2023-10-04,2024-09-25,Stable Disease,17.5
+T400419,P100419,Radiotherapy,2021-02-05,2021-03-26,Partial Response,6.0
+T400420,P100420,Radiotherapy,2024-11-29,2025-05-07,Progressive Disease,15.3
+T400421,P100421,Chemotherapy,2022-10-04,2023-07-06,Partial Response,53.1
+T400422,P100422,mRNA Vaccine Trial,2025-04-14,2025-05-18,Complete Response,43.0
+T400423,P100423,Combination,2021-06-01,2022-06-28,Partial Response,20.2
+T400424,P100424,Surgery,2024-07-06,2025-02-12,Stable Disease,15.2
+T400425,P100425,Chemotherapy,2021-08-08,2021-11-05,Progressive Disease,57.2
+T400426,P100426,Chemotherapy,2024-03-17,2025-03-13,Stable Disease,15.3
+T400427,P100427,Immunotherapy,2023-04-02,2024-02-08,Partial Response,17.5
+T400428,P100428,Immunotherapy,2023-05-08,2024-03-25,Partial Response,12.7
+T400429,P100429,Targeted Therapy,2023-05-03,2024-05-19,Progressive Disease,13.4
+T400430,P100430,Immunotherapy,2021-07-01,2021-07-15,Partial Response,29.9
+T400431,P100431,Chemotherapy,2020-12-21,2021-09-09,Progressive Disease,1.0
+T400432,P100432,Surgery,2023-09-19,2024-04-21,Partial Response,1.0
+T400433,P100433,Immunotherapy,2024-08-30,2024-11-09,Stable Disease,119.8
+T400434,P100434,Targeted Therapy,2020-06-25,2020-08-20,Complete Response,7.6
+T400435,P100435,Immunotherapy,2023-07-01,2024-02-08,Progressive Disease,42.1
+T400436,P100436,Immunotherapy,2023-03-13,2023-09-29,Partial Response,59.8
+T400437,P100437,Surgery,2021-08-22,2022-08-11,Stable Disease,60.9
+T400438,P100438,Surgery,2025-03-30,2025-10-09,Complete Response,62.6
+T400439,P100439,mRNA Vaccine Trial,2023-07-25,2023-10-03,Progressive Disease,75.5
+T400440,P100440,Targeted Therapy,2022-03-04,2022-10-08,Stable Disease,3.2
+T400441,P100441,Radiotherapy,2021-10-10,2022-05-23,Stable Disease,6.5
+T400442,P100442,Immunotherapy,2022-09-08,2022-12-14,Stable Disease,23.1
+T400443,P100443,Radiotherapy,2022-07-12,2023-05-19,Partial Response,15.0
+T400444,P100444,Chemotherapy,2021-05-03,2022-04-12,Progressive Disease,17.6
+T400445,P100445,Chemotherapy,2023-11-20,2024-11-20,Stable Disease,3.2
+T400446,P100446,Combination,2024-11-30,2025-01-26,Progressive Disease,83.5
+T400447,P100447,Immunotherapy,2024-01-05,2024-02-26,Stable Disease,21.7
+T400448,P100448,Targeted Therapy,2024-10-01,2024-11-30,Stable Disease,5.9
+T400449,P100449,Immunotherapy,2024-08-04,2025-05-16,Complete Response,8.4
+T400450,P100450,Chemotherapy,2022-07-21,2022-08-13,Progressive Disease,31.6
+T400451,P100451,mRNA Vaccine Trial,2023-05-17,2023-09-15,Progressive Disease,75.9
+T400452,P100452,Chemotherapy,2022-07-18,2022-11-02,Progressive Disease,16.4
+T400453,P100453,Combination,2021-02-06,2021-10-08,Stable Disease,36.9
+T400454,P100454,Immunotherapy,2021-07-03,2022-07-24,Stable Disease,77.8
+T400455,P100455,Combination,2023-09-10,2024-01-09,Stable Disease,2.8
+T400456,P100456,Radiotherapy,2025-05-27,2025-10-16,Partial Response,14.6
+T400457,P100457,Combination,2020-08-24,2021-03-31,Progressive Disease,167.9
+T400458,P100458,Surgery,2020-09-26,2021-05-03,Complete Response,35.4
+T400459,P100459,Surgery,2024-07-14,2025-01-28,Progressive Disease,50.2
+T400460,P100460,Chemotherapy,2020-08-08,2021-06-18,Partial Response,9.6
+T400461,P100461,Surgery,2021-01-18,2021-09-02,Partial Response,7.1
+T400462,P100462,Combination,2020-12-20,2021-11-07,Stable Disease,14.7
+T400463,P100463,Immunotherapy,2022-03-01,2022-12-28,Stable Disease,9.5
+T400464,P100464,Combination,2021-02-28,2022-03-14,Partial Response,42.0
+T400465,P100465,Combination,2021-12-14,2022-03-12,Stable Disease,10.4
+T400466,P100466,Surgery,2024-10-03,2024-12-13,Stable Disease,32.7
+T400467,P100467,Targeted Therapy,2021-04-06,2021-10-30,Progressive Disease,5.0
+T400468,P100468,Targeted Therapy,2021-09-04,2022-06-21,Partial Response,15.8
+T400469,P100469,Radiotherapy,2024-06-02,2024-07-26,Complete Response,12.6
+T400470,P100470,Surgery,2023-03-12,2024-01-16,Partial Response,26.7
+T400471,P100471,Targeted Therapy,2024-01-24,2024-03-11,Stable Disease,16.9
+T400472,P100472,Surgery,2024-11-17,2025-01-29,Progressive Disease,172.7
+T400473,P100473,Targeted Therapy,2023-10-29,2024-05-06,Partial Response,37.0
+T400474,P100474,Targeted Therapy,2022-09-22,2023-02-28,Partial Response,1.0
+T400475,P100475,Immunotherapy,2024-01-02,2024-07-20,Progressive Disease,41.1
+T400476,P100476,Targeted Therapy,2025-01-24,2025-03-14,Progressive Disease,133.3
+T400477,P100477,Targeted Therapy,2021-07-02,2022-05-01,Progressive Disease,19.8
+T400478,P100478,Surgery,2023-10-12,2024-08-19,Partial Response,69.8
+T400479,P100479,Surgery,2021-04-15,2021-07-23,Complete Response,20.8
+T400480,P100480,Chemotherapy,2022-07-24,2022-11-14,Stable Disease,60.5
+T400481,P100481,Chemotherapy,2022-10-22,2023-05-28,Complete Response,23.0
+T400482,P100482,Combination,2025-03-04,2025-06-26,Progressive Disease,50.1
+T400483,P100483,Radiotherapy,2022-08-10,2023-07-07,Progressive Disease,9.8
+T400484,P100484,Immunotherapy,2024-01-29,2024-07-06,Complete Response,22.6
+T400485,P100485,Surgery,2020-09-28,2021-08-24,Stable Disease,17.5
+T400486,P100486,Surgery,2025-04-09,2025-10-10,Stable Disease,6.0
+T400487,P100487,Targeted Therapy,2022-06-26,2022-07-05,Partial Response,22.7
+T400488,P100488,Immunotherapy,2023-11-06,2024-01-14,Partial Response,117.2
+T400489,P100489,Surgery,2022-07-10,2023-04-08,Stable Disease,86.0
+T400490,P100490,Surgery,2021-09-17,2022-03-29,Partial Response,15.9
+T400491,P100491,Surgery,2022-02-08,2022-04-26,Partial Response,63.4
+T400492,P100492,Immunotherapy,2022-11-28,2023-02-07,Partial Response,11.0
+T400493,P100493,Chemotherapy,2020-08-26,2021-02-27,Progressive Disease,14.0
+T400494,P100494,Targeted Therapy,2024-01-14,2025-02-05,Progressive Disease,18.4
+T400495,P100495,Chemotherapy,2020-10-28,2021-05-27,Progressive Disease,17.0
+T400496,P100496,Radiotherapy,2022-11-24,2023-11-17,Progressive Disease,11.2
+T400497,P100497,Immunotherapy,2021-02-09,2021-04-09,Stable Disease,16.2
+T400498,P100498,Immunotherapy,2021-01-08,2021-04-09,Progressive Disease,11.5
+T400499,P100499,Combination,2024-10-21,2025-06-06,Progressive Disease,13.9
+T400500,P100500,Chemotherapy,2022-11-05,2023-03-31,Progressive Disease,20.8
+T400501,P100501,Targeted Therapy,2022-11-17,2023-06-08,Stable Disease,10.5
+T400502,P100502,Chemotherapy,2020-12-31,2021-11-26,Progressive Disease,89.4
+T400503,P100503,Chemotherapy,2020-05-02,2020-05-26,Progressive Disease,82.7
+T400504,P100504,Radiotherapy,2023-03-30,2023-09-03,Stable Disease,11.5
+T400505,P100505,mRNA Vaccine Trial,2024-07-05,2025-04-09,Stable Disease,14.3
+T400506,P100506,Surgery,2024-01-23,2024-07-13,Stable Disease,213.7
+T400507,P100507,Surgery,2024-09-10,2024-10-24,Partial Response,29.9
+T400508,P100508,Radiotherapy,2024-08-08,2025-01-22,Partial Response,26.0
+T400509,P100509,Radiotherapy,2024-07-18,2025-07-27,Partial Response,183.3
+T400510,P100510,Chemotherapy,2023-08-04,2024-01-22,Progressive Disease,121.5
+T400511,P100511,Chemotherapy,2023-01-19,2023-06-20,Stable Disease,127.8
+T400512,P100512,Chemotherapy,2021-08-28,2022-06-18,Partial Response,3.8
+T400513,P100513,Targeted Therapy,2025-03-14,2026-02-27,Complete Response,17.0
+T400514,P100514,mRNA Vaccine Trial,2024-12-06,2025-11-27,Progressive Disease,13.0
+T400515,P100515,Radiotherapy,2021-06-10,2021-09-26,Partial Response,8.2
+T400516,P100516,Immunotherapy,2022-05-29,2022-06-28,Progressive Disease,96.5
+T400517,P100517,Chemotherapy,2020-07-16,2021-03-11,Partial Response,52.2
+T400518,P100518,Radiotherapy,2022-02-18,2022-06-26,Stable Disease,1.0
+T400519,P100519,Radiotherapy,2024-11-10,2025-09-07,Progressive Disease,36.1
+T400520,P100520,Combination,2020-05-27,2020-08-09,Progressive Disease,66.8
+T400521,P100521,Chemotherapy,2022-12-06,2023-09-12,Progressive Disease,11.5
+T400522,P100522,Surgery,2023-04-15,2023-04-30,Complete Response,9.7
+T400523,P100523,Surgery,2023-08-26,2024-04-01,Progressive Disease,197.1
+T400524,P100524,Radiotherapy,2022-09-09,2023-03-12,Stable Disease,34.5
+T400525,P100525,Chemotherapy,2024-12-31,2025-09-16,Stable Disease,14.0
+T400526,P100526,Radiotherapy,2020-07-31,2021-03-27,Stable Disease,9.8
+T400527,P100527,Targeted Therapy,2024-01-30,2024-04-08,Progressive Disease,11.0
+T400528,P100528,Combination,2021-03-19,2021-04-09,Partial Response,19.7
+T400529,P100529,Immunotherapy,2022-07-08,2022-09-06,Progressive Disease,33.6
+T400530,P100530,mRNA Vaccine Trial,2024-12-12,2025-07-30,Partial Response,17.8
+T400531,P100531,Surgery,2024-03-22,2024-10-03,Progressive Disease,13.1
+T400532,P100532,Chemotherapy,2022-02-22,2023-02-16,Progressive Disease,21.9
+T400533,P100533,Radiotherapy,2023-10-13,2023-11-11,Partial Response,106.6
+T400534,P100534,Combination,2020-11-10,2021-04-01,Partial Response,28.3
+T400535,P100535,Targeted Therapy,2025-03-02,2025-09-19,Partial Response,80.8
+T400536,P100536,Surgery,2025-06-03,2026-04-04,Stable Disease,30.9
+T400537,P100537,Surgery,2021-07-17,2021-10-07,Progressive Disease,9.9
+T400538,P100538,mRNA Vaccine Trial,2025-06-07,2026-01-11,Stable Disease,90.7
+T400539,P100539,Targeted Therapy,2024-04-13,2025-01-15,Partial Response,29.6
+T400540,P100540,Chemotherapy,2025-06-09,2025-11-06,Partial Response,8.2
+T400541,P100541,Immunotherapy,2023-05-15,2023-07-08,Partial Response,1.0
+T400542,P100542,Radiotherapy,2020-10-02,2021-04-07,Stable Disease,1.0
+T400543,P100543,mRNA Vaccine Trial,2024-05-23,2025-04-26,Progressive Disease,6.3
+T400544,P100544,Surgery,2021-03-21,2021-05-05,Progressive Disease,85.5
+T400545,P100545,Surgery,2022-10-23,2023-10-08,Partial Response,23.4
+T400546,P100546,Immunotherapy,2023-01-18,2023-10-01,Partial Response,1.6
+T400547,P100547,Surgery,2025-04-07,2026-05-08,Stable Disease,16.2
+T400548,P100548,mRNA Vaccine Trial,2024-05-30,2024-11-12,Progressive Disease,12.8
+T400549,P100549,Targeted Therapy,2021-06-26,2022-03-18,Partial Response,40.5
+T400550,P100550,Surgery,2023-08-04,2024-02-13,Stable Disease,26.3
+T400551,P100551,Chemotherapy,2021-02-02,2021-10-29,Partial Response,81.3
+T400552,P100552,Chemotherapy,2022-10-17,2023-03-15,Stable Disease,21.3
+T400553,P100553,Targeted Therapy,2021-02-05,2021-12-04,Stable Disease,33.1
+T400554,P100554,Surgery,2025-02-14,2025-04-16,Progressive Disease,121.9
+T400555,P100555,Surgery,2020-07-06,2021-03-05,Partial Response,81.5
+T400556,P100556,Surgery,2022-02-18,2022-11-23,Stable Disease,10.7
+T400557,P100557,Radiotherapy,2024-06-30,2025-04-14,Complete Response,20.1
+T400558,P100558,Chemotherapy,2022-11-17,2023-06-15,Stable Disease,125.3
+T400559,P100559,Chemotherapy,2022-02-26,2022-10-16,Partial Response,17.1
+T400560,P100560,Surgery,2024-04-06,2024-10-25,Progressive Disease,24.5
+T400561,P100561,Chemotherapy,2021-11-04,2022-02-15,Stable Disease,12.7
+T400562,P100562,Chemotherapy,2025-02-23,2026-01-07,Stable Disease,10.4
+T400563,P100563,Chemotherapy,2025-06-19,2025-07-21,Stable Disease,113.0
+T400564,P100564,Combination,2021-10-12,2021-12-16,Complete Response,11.8
+T400565,P100565,Surgery,2021-09-06,2022-01-13,Complete Response,60.7
+T400566,P100566,Surgery,2023-05-10,2024-03-29,Progressive Disease,119.3
+T400567,P100567,Chemotherapy,2021-06-11,2021-08-08,Partial Response,10.6
+T400568,P100568,Immunotherapy,2023-09-08,2024-01-30,Stable Disease,12.1
+T400569,P100569,Surgery,2024-03-04,2024-09-04,Stable Disease,142.4
+T400570,P100570,Immunotherapy,2022-10-22,2023-11-08,Complete Response,63.6
+T400571,P100571,Surgery,2021-06-16,2022-06-16,Stable Disease,14.1
+T400572,P100572,Immunotherapy,2024-05-04,2025-04-28,Partial Response,34.6
+T400573,P100573,Radiotherapy,2022-03-22,2022-06-22,Partial Response,21.5
+T400574,P100574,mRNA Vaccine Trial,2020-10-03,2020-10-16,Progressive Disease,7.7
+T400575,P100575,Chemotherapy,2022-03-16,2022-06-21,Progressive Disease,20.3
+T400576,P100576,mRNA Vaccine Trial,2021-03-01,2022-02-18,Progressive Disease,17.0
+T400577,P100577,Surgery,2022-09-03,2023-05-10,Stable Disease,11.2
+T400578,P100578,Chemotherapy,2021-03-16,2021-11-19,Partial Response,34.6
+T400579,P100579,Immunotherapy,2020-12-24,2021-12-14,Progressive Disease,7.9
+T400580,P100580,Immunotherapy,2020-12-02,2021-08-23,Partial Response,5.8
+T400581,P100581,Surgery,2021-09-10,2021-11-07,Partial Response,20.6
+T400582,P100582,Immunotherapy,2023-03-12,2023-11-25,Progressive Disease,10.1
+T400583,P100583,Combination,2020-10-29,2021-10-10,Stable Disease,2.2
+T400584,P100584,Radiotherapy,2020-09-24,2021-03-30,Partial Response,117.4
+T400585,P100585,Radiotherapy,2020-07-24,2021-07-05,Progressive Disease,51.0
+T400586,P100586,Combination,2020-06-19,2021-02-28,Partial Response,43.9
+T400587,P100587,Targeted Therapy,2024-08-29,2025-07-29,Complete Response,5.9
+T400588,P100588,Combination,2025-04-30,2025-08-27,Progressive Disease,27.3
+T400589,P100589,Surgery,2023-12-01,2023-12-23,Partial Response,20.7
+T400590,P100590,Immunotherapy,2021-08-23,2022-03-02,Partial Response,14.5
+T400591,P100591,Surgery,2023-10-15,2024-05-02,Stable Disease,14.1
+T400592,P100592,Combination,2020-08-23,2021-07-16,Progressive Disease,29.8
+T400593,P100593,mRNA Vaccine Trial,2024-07-18,2025-04-20,Partial Response,18.8
+T400594,P100594,Combination,2020-03-02,2020-08-25,Stable Disease,6.0
+T400595,P100595,Chemotherapy,2025-03-01,2025-08-13,Partial Response,71.9
+T400596,P100596,Chemotherapy,2021-11-28,2022-05-29,Progressive Disease,13.3
+T400597,P100597,Surgery,2020-06-18,2021-02-12,Stable Disease,7.6
+T400598,P100598,Immunotherapy,2025-07-09,2025-12-10,Partial Response,1.0
+T400599,P100599,Surgery,2024-09-26,2025-09-18,Partial Response,155.7
+T400600,P100600,Targeted Therapy,2022-01-29,2022-07-03,Stable Disease,13.6
+T400601,P100601,Targeted Therapy,2023-12-18,2024-08-30,Partial Response,31.1
+T400602,P100602,Immunotherapy,2023-03-08,2023-11-02,Complete Response,103.1
+T400603,P100603,Radiotherapy,2024-08-23,2024-11-01,Complete Response,15.0
+T400604,P100604,Radiotherapy,2020-05-22,2020-11-25,Progressive Disease,19.3
+T400605,P100605,Surgery,2021-11-26,2022-02-11,Stable Disease,4.1
+T400606,P100606,Radiotherapy,2024-08-24,2025-05-15,Progressive Disease,12.0
+T400607,P100607,Immunotherapy,2020-10-26,2020-12-16,Progressive Disease,7.8
+T400608,P100608,Surgery,2025-05-29,2025-09-13,Stable Disease,13.5
+T400609,P100609,Combination,2025-07-09,2025-11-05,Complete Response,12.1
+T400610,P100610,Combination,2021-01-06,2021-12-26,Stable Disease,16.9
+T400611,P100611,Chemotherapy,2021-02-20,2021-04-18,Progressive Disease,15.2
+T400612,P100612,Combination,2024-03-10,2024-08-23,Partial Response,70.3
+T400613,P100613,Chemotherapy,2023-05-03,2023-10-22,Progressive Disease,27.8
+T400614,P100614,Surgery,2023-07-25,2023-11-11,Partial Response,10.2
+T400615,P100615,Chemotherapy,2024-03-18,2024-08-26,Partial Response,26.4
+T400616,P100616,Radiotherapy,2025-02-15,2026-01-09,Stable Disease,34.2
+T400617,P100617,Surgery,2024-01-09,2024-08-26,Complete Response,25.3
+T400618,P100618,Chemotherapy,2020-05-22,2020-11-05,Stable Disease,8.2
+T400619,P100619,Targeted Therapy,2022-05-19,2023-01-20,Stable Disease,61.9
+T400620,P100620,Chemotherapy,2022-10-04,2023-06-04,Complete Response,23.2
+T400621,P100621,Chemotherapy,2020-04-27,2020-12-05,Complete Response,33.5
+T400622,P100622,Surgery,2022-01-28,2022-07-08,Progressive Disease,16.9
+T400623,P100623,Chemotherapy,2025-02-05,2025-04-18,Stable Disease,75.7
+T400624,P100624,mRNA Vaccine Trial,2024-02-07,2024-07-13,Complete Response,7.3
+T400625,P100625,Immunotherapy,2020-11-25,2021-06-26,Progressive Disease,1.0
+T400626,P100626,Chemotherapy,2024-01-15,2024-10-13,Stable Disease,17.0
+T400627,P100627,Surgery,2020-07-18,2020-12-10,Progressive Disease,147.5
+T400628,P100628,Targeted Therapy,2020-05-12,2021-03-19,Complete Response,37.4
+T400629,P100629,Radiotherapy,2023-08-03,2024-07-28,Partial Response,8.8
+T400630,P100630,Surgery,2023-09-16,2024-07-18,Progressive Disease,8.8
+T400631,P100631,Immunotherapy,2022-03-28,2023-03-29,Partial Response,112.5
+T400632,P100632,Surgery,2022-04-20,2023-01-05,Partial Response,5.3
+T400633,P100633,mRNA Vaccine Trial,2021-08-02,2021-10-27,Partial Response,8.0
+T400634,P100634,Radiotherapy,2020-07-04,2020-07-14,Progressive Disease,12.2
+T400635,P100635,Targeted Therapy,2022-05-09,2022-07-13,Complete Response,36.7
+T400636,P100636,Surgery,2023-01-31,2023-04-09,Stable Disease,12.8
+T400637,P100637,Surgery,2024-12-16,2025-08-22,Complete Response,9.8
+T400638,P100638,Chemotherapy,2024-01-27,2024-03-02,Progressive Disease,5.3
+T400639,P100639,Radiotherapy,2023-11-18,2024-02-27,Progressive Disease,11.7
+T400640,P100640,Immunotherapy,2025-05-31,2025-10-18,Progressive Disease,11.3
+T400641,P100641,Targeted Therapy,2023-12-24,2024-12-01,Stable Disease,18.7
+T400642,P100642,Chemotherapy,2021-11-25,2021-12-13,Partial Response,7.6
+T400643,P100643,Immunotherapy,2024-12-01,2025-04-10,Partial Response,36.0
+T400644,P100644,Immunotherapy,2024-01-08,2024-04-26,Stable Disease,26.6
+T400645,P100645,Radiotherapy,2020-12-14,2021-02-10,Progressive Disease,196.7
+T400646,P100646,Chemotherapy,2020-09-04,2021-01-29,Stable Disease,40.0
+T400647,P100647,Targeted Therapy,2024-12-13,2025-08-14,Stable Disease,26.3
+T400648,P100648,Chemotherapy,2023-06-02,2023-11-01,Stable Disease,15.8
+T400649,P100649,Chemotherapy,2023-05-31,2024-03-30,Partial Response,16.2
+T400650,P100650,Targeted Therapy,2021-06-27,2022-06-05,Stable Disease,21.1
+T400651,P100651,Surgery,2024-09-28,2025-04-04,Progressive Disease,31.1
+T400652,P100652,Chemotherapy,2023-12-19,2024-08-16,Partial Response,33.0
+T400653,P100653,Combination,2024-05-26,2025-02-13,Progressive Disease,8.4
+T400654,P100654,Chemotherapy,2021-02-10,2022-02-13,Stable Disease,20.2
+T400655,P100655,Chemotherapy,2024-11-22,2025-10-30,Partial Response,100.3
+T400656,P100656,Targeted Therapy,2024-01-29,2024-07-27,Stable Disease,122.3
+T400657,P100657,mRNA Vaccine Trial,2023-03-18,2023-08-14,Progressive Disease,151.3
+T400658,P100658,Targeted Therapy,2020-06-26,2021-01-20,Complete Response,25.6
+T400659,P100659,Immunotherapy,2021-03-13,2021-09-28,Progressive Disease,12.5
+T400660,P100660,Targeted Therapy,2020-09-21,2021-07-19,Progressive Disease,45.0
+T400661,P100661,Chemotherapy,2025-07-02,2026-04-04,Partial Response,36.7
+T400662,P100662,Targeted Therapy,2025-02-11,2025-12-12,Partial Response,19.0
+T400663,P100663,Targeted Therapy,2024-11-08,2024-12-19,Complete Response,8.2
+T400664,P100664,mRNA Vaccine Trial,2021-07-15,2021-11-17,Complete Response,27.3
+T400665,P100665,Surgery,2023-12-27,2024-12-15,Stable Disease,5.3
+T400666,P100666,Immunotherapy,2020-03-07,2021-03-24,Progressive Disease,11.9
+T400667,P100667,Surgery,2025-07-29,2025-11-02,Progressive Disease,88.3
+T400668,P100668,Radiotherapy,2021-04-17,2021-05-26,Complete Response,22.0
+T400669,P100669,Radiotherapy,2023-04-14,2024-05-08,Complete Response,42.6
+T400670,P100670,Immunotherapy,2024-10-23,2025-09-18,Progressive Disease,13.7
+T400671,P100671,Combination,2023-11-22,2024-01-23,Progressive Disease,54.0
+T400672,P100672,Radiotherapy,2021-12-06,2022-10-02,Stable Disease,16.9
+T400673,P100673,Surgery,2021-10-04,2022-05-23,Progressive Disease,51.6
+T400674,P100674,Surgery,2024-08-23,2024-11-20,Stable Disease,93.7
+T400675,P100675,Chemotherapy,2020-04-12,2020-07-26,Complete Response,18.7
+T400676,P100676,Surgery,2024-03-30,2024-05-25,Partial Response,19.4
+T400677,P100677,Immunotherapy,2022-01-29,2022-02-07,Stable Disease,5.5
+T400678,P100678,Chemotherapy,2023-11-10,2023-12-23,Partial Response,36.5
+T400679,P100679,Targeted Therapy,2025-01-27,2026-02-10,Stable Disease,40.2
+T400680,P100680,Chemotherapy,2021-08-05,2021-11-26,Stable Disease,14.1
+T400681,P100681,Chemotherapy,2021-04-22,2021-10-28,Stable Disease,13.9
+T400682,P100682,Chemotherapy,2024-12-29,2025-02-08,Stable Disease,24.3
+T400683,P100683,Targeted Therapy,2020-10-23,2020-12-05,Stable Disease,47.1
+T400684,P100684,Surgery,2020-06-27,2020-12-03,Partial Response,30.3
+T400685,P100685,Chemotherapy,2022-12-24,2023-11-03,Stable Disease,7.6
+T400686,P100686,Surgery,2021-04-07,2021-09-09,Progressive Disease,22.7
+T400687,P100687,Radiotherapy,2020-12-04,2021-06-12,Complete Response,5.3
+T400688,P100688,mRNA Vaccine Trial,2021-01-15,2021-03-01,Stable Disease,1.0
+T400689,P100689,Surgery,2024-06-05,2025-04-20,Stable Disease,53.5
+T400690,P100690,Radiotherapy,2020-07-02,2021-04-14,Progressive Disease,38.5
+T400691,P100691,Surgery,2025-06-29,2025-11-17,Progressive Disease,56.6
+T400692,P100692,Surgery,2022-03-01,2022-07-19,Partial Response,14.4
+T400693,P100693,mRNA Vaccine Trial,2023-07-10,2023-09-26,Partial Response,9.0
+T400694,P100694,Immunotherapy,2020-08-19,2021-09-17,Progressive Disease,22.9
+T400695,P100695,mRNA Vaccine Trial,2020-04-18,2021-01-02,Complete Response,15.1
+T400696,P100696,Combination,2022-01-18,2022-12-03,Progressive Disease,105.5
+T400697,P100697,Immunotherapy,2024-03-18,2024-09-18,Progressive Disease,27.3
+T400698,P100698,Combination,2020-11-02,2021-11-22,Stable Disease,10.7
+T400699,P100699,Surgery,2024-01-31,2024-10-09,Progressive Disease,51.2
+T400700,P100700,Radiotherapy,2020-04-11,2020-06-10,Complete Response,16.2
+T400701,P100701,Chemotherapy,2020-05-19,2020-11-21,Stable Disease,6.4
+T400702,P100702,Radiotherapy,2022-10-22,2023-02-22,Complete Response,1.9
+T400703,P100703,Surgery,2022-06-29,2022-10-14,Stable Disease,94.1
+T400704,P100704,mRNA Vaccine Trial,2022-06-19,2023-06-11,Progressive Disease,40.8
+T400705,P100705,Chemotherapy,2024-05-29,2024-12-20,Progressive Disease,72.1
+T400706,P100706,Targeted Therapy,2024-09-25,2025-09-26,Stable Disease,36.1
+T400707,P100707,Surgery,2020-04-18,2020-06-24,Progressive Disease,106.5
+T400708,P100708,Combination,2021-05-18,2021-11-21,Partial Response,118.9
+T400709,P100709,Chemotherapy,2023-03-24,2023-07-30,Partial Response,14.2
+T400710,P100710,Chemotherapy,2024-02-04,2024-09-09,Progressive Disease,206.6
+T400711,P100711,mRNA Vaccine Trial,2021-10-18,2022-07-26,Stable Disease,13.0
+T400712,P100712,Combination,2020-03-21,2021-03-31,Partial Response,21.4
+T400713,P100713,Surgery,2020-07-16,2020-09-25,Stable Disease,8.2
+T400714,P100714,Radiotherapy,2022-01-22,2022-07-27,Stable Disease,49.1
+T400715,P100715,mRNA Vaccine Trial,2024-08-14,2024-10-26,Stable Disease,36.9
+T400716,P100716,Chemotherapy,2021-07-17,2022-06-25,Complete Response,48.9
+T400717,P100717,Radiotherapy,2020-09-22,2021-01-12,Stable Disease,45.7
+T400718,P100718,Immunotherapy,2022-10-07,2023-02-03,Stable Disease,14.3
+T400719,P100719,Radiotherapy,2023-06-29,2024-04-13,Partial Response,72.8
+T400720,P100720,Targeted Therapy,2022-05-25,2022-10-15,Partial Response,30.5
+T400721,P100721,Chemotherapy,2023-12-19,2024-01-22,Partial Response,15.8
+T400722,P100722,Chemotherapy,2023-12-02,2024-10-22,Stable Disease,36.0
+T400723,P100723,Surgery,2022-08-02,2022-10-18,Progressive Disease,1.0
+T400724,P100724,Chemotherapy,2020-11-19,2021-12-10,Stable Disease,33.6
+T400725,P100725,Surgery,2022-12-17,2023-03-06,Complete Response,12.0
+T400726,P100726,Surgery,2021-06-05,2022-05-10,Progressive Disease,7.8
+T400727,P100727,Combination,2022-02-15,2022-11-04,Progressive Disease,44.0
+T400728,P100728,Radiotherapy,2022-08-12,2023-03-03,Partial Response,11.2
+T400729,P100729,Combination,2024-03-09,2024-08-05,Progressive Disease,14.5
+T400730,P100730,Radiotherapy,2020-01-02,2020-07-22,Stable Disease,78.3
+T400731,P100731,Surgery,2023-03-10,2023-09-27,Partial Response,22.5
+T400732,P100732,Chemotherapy,2021-04-04,2022-03-15,Partial Response,20.2
+T400733,P100733,Chemotherapy,2024-01-29,2024-02-18,Progressive Disease,71.5
+T400734,P100734,Immunotherapy,2020-01-26,2020-06-15,Progressive Disease,9.6
+T400735,P100735,Chemotherapy,2023-01-22,2023-02-12,Partial Response,30.1
+T400736,P100736,Immunotherapy,2024-09-06,2025-04-19,Progressive Disease,25.0
+T400737,P100737,Combination,2025-05-07,2025-06-12,Progressive Disease,115.2
+T400738,P100738,Chemotherapy,2022-01-22,2023-02-02,Progressive Disease,237.7
+T400739,P100739,Radiotherapy,2023-06-19,2024-03-25,Stable Disease,4.6
+T400740,P100740,Chemotherapy,2020-11-07,2021-12-12,Stable Disease,1.0
+T400741,P100741,Surgery,2022-06-29,2023-03-02,Progressive Disease,65.5
+T400742,P100742,Combination,2023-11-25,2023-12-09,Partial Response,3.6
+T400743,P100743,Targeted Therapy,2023-09-25,2023-11-14,Progressive Disease,78.3
+T400744,P100744,Immunotherapy,2023-06-19,2023-12-15,Stable Disease,30.0
+T400745,P100745,Surgery,2022-08-02,2023-02-10,Partial Response,5.4
+T400746,P100746,Radiotherapy,2022-12-26,2023-11-09,Complete Response,20.5
+T400747,P100747,Radiotherapy,2023-08-30,2024-02-17,Progressive Disease,62.9
+T400748,P100748,Immunotherapy,2022-01-05,2022-09-05,Complete Response,91.0
+T400749,P100749,Surgery,2023-12-27,2024-07-04,Stable Disease,26.8
+T400750,P100750,Immunotherapy,2023-10-11,2024-05-14,Complete Response,64.1
+T400751,P100751,Combination,2020-02-13,2020-12-28,Stable Disease,13.7
+T400752,P100752,Combination,2020-05-23,2020-08-30,Partial Response,18.5
+T400753,P100753,Immunotherapy,2020-11-11,2021-07-29,Partial Response,14.6
+T400754,P100754,Targeted Therapy,2024-08-03,2025-06-22,Progressive Disease,98.1
+T400755,P100755,Surgery,2024-12-17,2025-01-12,Partial Response,1.0
+T400756,P100756,Chemotherapy,2024-07-21,2025-05-20,Partial Response,8.5
+T400757,P100757,Chemotherapy,2025-07-05,2025-08-12,Progressive Disease,9.1
+T400758,P100758,Combination,2023-07-10,2023-07-25,Progressive Disease,24.1
+T400759,P100759,mRNA Vaccine Trial,2024-04-17,2025-01-25,Progressive Disease,52.6
+T400760,P100760,Targeted Therapy,2025-06-19,2025-08-20,Complete Response,71.6
+T400761,P100761,Chemotherapy,2021-02-18,2021-04-05,Partial Response,6.2
+T400762,P100762,Radiotherapy,2023-03-08,2024-02-26,Stable Disease,12.4
+T400763,P100763,Targeted Therapy,2022-01-02,2022-06-02,Partial Response,96.0
+T400764,P100764,Radiotherapy,2020-06-03,2020-12-11,Partial Response,2.3
+T400765,P100765,Chemotherapy,2020-07-09,2021-01-23,Stable Disease,110.9
+T400766,P100766,Combination,2024-07-07,2024-07-29,Partial Response,34.6
+T400767,P100767,Surgery,2022-02-13,2022-05-07,Progressive Disease,53.1
+T400768,P100768,Surgery,2021-04-30,2021-08-23,Progressive Disease,18.1
+T400769,P100769,Chemotherapy,2023-10-10,2024-10-30,Stable Disease,7.5
+T400770,P100770,Chemotherapy,2023-08-30,2023-12-25,Stable Disease,15.3
+T400771,P100771,Chemotherapy,2021-11-30,2022-12-13,Partial Response,12.2
+T400772,P100772,Immunotherapy,2020-04-01,2020-05-18,Progressive Disease,1.0
+T400773,P100773,Combination,2020-04-13,2021-02-03,Stable Disease,53.9
+T400774,P100774,Chemotherapy,2021-01-12,2022-01-29,Stable Disease,10.3
+T400775,P100775,Immunotherapy,2023-09-05,2024-06-08,Progressive Disease,129.3
+T400776,P100776,Targeted Therapy,2025-01-15,2025-10-17,Stable Disease,10.7
+T400777,P100777,Radiotherapy,2024-01-20,2024-11-16,Partial Response,143.7
+T400778,P100778,Surgery,2021-06-14,2022-07-19,Progressive Disease,18.9
+T400779,P100779,Surgery,2022-05-04,2023-05-29,Progressive Disease,54.1
+T400780,P100780,Targeted Therapy,2022-04-05,2023-04-22,Progressive Disease,69.6
+T400781,P100781,Chemotherapy,2024-04-02,2024-10-06,Stable Disease,48.3
+T400782,P100782,Surgery,2022-11-18,2023-10-25,Stable Disease,98.1
+T400783,P100783,Surgery,2024-06-05,2025-01-12,Partial Response,18.5
+T400784,P100784,Immunotherapy,2020-11-24,2021-09-02,Partial Response,192.6
+T400785,P100785,Combination,2024-11-17,2025-09-19,Progressive Disease,35.9
+T400786,P100786,Targeted Therapy,2025-04-06,2025-09-06,Partial Response,11.1
+T400787,P100787,Surgery,2020-04-21,2020-11-29,Stable Disease,18.2
+T400788,P100788,Surgery,2020-07-24,2021-06-19,Progressive Disease,6.6
+T400789,P100789,Surgery,2021-03-20,2021-11-14,Complete Response,67.8
+T400790,P100790,Surgery,2024-09-21,2025-10-24,Stable Disease,15.0
+T400791,P100791,Combination,2024-11-27,2025-01-24,Partial Response,5.1
+T400792,P100792,Surgery,2023-11-03,2023-11-22,Progressive Disease,160.0
+T400793,P100793,Combination,2025-05-10,2026-02-04,Progressive Disease,8.6
+T400794,P100794,Combination,2021-10-02,2022-05-13,Stable Disease,99.8
+T400795,P100795,Chemotherapy,2023-07-21,2023-11-28,Progressive Disease,17.1
+T400796,P100796,Surgery,2021-12-05,2022-06-02,Stable Disease,75.7
+T400797,P100797,Targeted Therapy,2024-02-13,2024-03-14,Complete Response,13.6
+T400798,P100798,Combination,2025-01-31,2025-09-24,Progressive Disease,5.8
+T400799,P100799,Targeted Therapy,2023-03-22,2023-11-07,Partial Response,16.4
+T400800,P100800,Chemotherapy,2024-11-01,2025-11-18,Partial Response,20.7
+T400801,P100801,Immunotherapy,2020-08-02,2021-04-26,Complete Response,3.2
+T400802,P100802,mRNA Vaccine Trial,2023-05-07,2024-03-12,Stable Disease,1.0
+T400803,P100803,Targeted Therapy,2023-02-11,2023-08-01,Stable Disease,31.2
+T400804,P100804,Chemotherapy,2021-05-09,2021-10-06,Progressive Disease,64.9
+T400805,P100805,Surgery,2022-04-11,2022-12-26,Partial Response,45.7
+T400806,P100806,Chemotherapy,2024-09-04,2025-06-06,Stable Disease,21.8
+T400807,P100807,Immunotherapy,2023-04-01,2023-09-01,Partial Response,18.3
+T400808,P100808,Radiotherapy,2020-04-03,2020-06-22,Complete Response,37.2
+T400809,P100809,Combination,2020-05-23,2021-06-08,Partial Response,5.7
+T400810,P100810,Chemotherapy,2025-01-15,2025-12-03,Partial Response,8.9
+T400811,P100811,Radiotherapy,2022-12-13,2023-02-18,Partial Response,1.0
+T400812,P100812,Chemotherapy,2023-09-14,2023-12-16,Partial Response,50.9
+T400813,P100813,Combination,2023-01-01,2024-01-28,Partial Response,1.0
+T400814,P100814,Surgery,2024-11-29,2025-02-16,Complete Response,22.4
+T400815,P100815,Chemotherapy,2025-01-12,2026-02-09,Partial Response,34.9
+T400816,P100816,Chemotherapy,2021-07-31,2022-05-10,Stable Disease,2.9
+T400817,P100817,Surgery,2024-08-31,2024-09-20,Stable Disease,1.0
+T400818,P100818,Radiotherapy,2022-11-12,2023-09-07,Stable Disease,59.9
+T400819,P100819,Chemotherapy,2022-04-29,2022-12-24,Partial Response,20.2
+T400820,P100820,Surgery,2020-11-16,2021-01-23,Stable Disease,19.6
+T400821,P100821,Chemotherapy,2025-03-20,2025-05-10,Progressive Disease,23.1
+T400822,P100822,Combination,2020-03-25,2021-03-09,Partial Response,32.4
+T400823,P100823,Radiotherapy,2024-11-16,2025-12-09,Progressive Disease,40.0
+T400824,P100824,Immunotherapy,2024-07-05,2024-09-30,Stable Disease,87.0
+T400825,P100825,Radiotherapy,2024-03-03,2025-03-21,Stable Disease,88.4
+T400826,P100826,Immunotherapy,2022-04-14,2023-04-08,Partial Response,39.1
+T400827,P100827,Combination,2022-11-25,2023-01-22,Progressive Disease,6.9
+T400828,P100828,Immunotherapy,2023-07-03,2023-10-15,Progressive Disease,10.5
+T400829,P100829,Targeted Therapy,2022-11-09,2023-10-02,Complete Response,58.2
+T400830,P100830,Targeted Therapy,2024-05-05,2024-09-14,Partial Response,75.9
+T400831,P100831,Radiotherapy,2023-02-19,2023-06-18,Progressive Disease,16.4
+T400832,P100832,Radiotherapy,2023-04-30,2024-01-10,Progressive Disease,54.5
+T400833,P100833,Immunotherapy,2021-05-09,2021-07-22,Partial Response,11.7
+T400834,P100834,mRNA Vaccine Trial,2021-03-23,2021-12-19,Progressive Disease,22.0
+T400835,P100835,Immunotherapy,2022-02-07,2022-09-24,Complete Response,26.8
+T400836,P100836,Chemotherapy,2023-09-09,2024-09-13,Partial Response,19.3
+T400837,P100837,Chemotherapy,2022-02-03,2022-12-21,Stable Disease,6.5
+T400838,P100838,Chemotherapy,2023-03-16,2023-09-17,Stable Disease,13.0
+T400839,P100839,Targeted Therapy,2021-06-14,2021-11-21,Progressive Disease,10.1
+T400840,P100840,mRNA Vaccine Trial,2020-11-20,2021-08-02,Stable Disease,73.1
+T400841,P100841,Targeted Therapy,2020-08-31,2021-03-08,Stable Disease,39.7
+T400842,P100842,Radiotherapy,2023-06-25,2023-08-28,Progressive Disease,127.4
+T400843,P100843,mRNA Vaccine Trial,2020-08-22,2021-01-23,Stable Disease,27.5
+T400844,P100844,Chemotherapy,2021-04-14,2022-03-26,Stable Disease,127.9
+T400845,P100845,Surgery,2022-04-20,2023-03-31,Partial Response,13.0
+T400846,P100846,Targeted Therapy,2025-06-04,2025-08-15,Progressive Disease,79.5
+T400847,P100847,Chemotherapy,2025-05-11,2026-01-23,Stable Disease,9.0
+T400848,P100848,Targeted Therapy,2022-11-23,2023-04-27,Partial Response,21.8
+T400849,P100849,Surgery,2023-10-27,2024-05-30,Complete Response,48.2
+T400850,P100850,Immunotherapy,2022-01-09,2022-12-27,Partial Response,3.9
+T400851,P100851,Radiotherapy,2024-01-09,2024-08-20,Stable Disease,16.4
+T400852,P100852,Combination,2025-03-05,2025-11-15,Progressive Disease,7.1
+T400853,P100853,Radiotherapy,2023-07-17,2023-08-16,Partial Response,14.0
+T400854,P100854,Chemotherapy,2022-05-19,2022-08-19,Stable Disease,66.4
+T400855,P100855,Immunotherapy,2025-04-30,2026-03-17,Stable Disease,22.5
+T400856,P100856,Surgery,2023-04-26,2023-05-13,Progressive Disease,13.1
+T400857,P100857,Surgery,2024-04-24,2024-06-16,Progressive Disease,24.7
+T400858,P100858,Radiotherapy,2020-03-19,2021-04-22,Progressive Disease,36.9
+T400859,P100859,Surgery,2021-03-30,2021-12-27,Partial Response,10.8
+T400860,P100860,Chemotherapy,2020-01-30,2020-11-06,Stable Disease,13.3
+T400861,P100861,Immunotherapy,2024-08-26,2024-11-23,Progressive Disease,14.8
+T400862,P100862,Radiotherapy,2022-01-07,2022-10-24,Progressive Disease,33.1
+T400863,P100863,Combination,2025-03-22,2025-04-08,Progressive Disease,8.1
+T400864,P100864,Chemotherapy,2024-12-24,2025-07-22,Progressive Disease,7.0
+T400865,P100865,Surgery,2023-07-08,2023-12-16,Complete Response,19.7
+T400866,P100866,Targeted Therapy,2025-06-24,2025-11-04,Complete Response,24.2
+T400867,P100867,Immunotherapy,2020-05-18,2020-12-04,Progressive Disease,67.0
+T400868,P100868,Surgery,2025-01-25,2025-06-19,Progressive Disease,4.8
+T400869,P100869,Surgery,2022-12-14,2023-12-25,Progressive Disease,1.4
+T400870,P100870,Immunotherapy,2022-12-13,2022-12-27,Progressive Disease,146.7
+T400871,P100871,Chemotherapy,2024-12-25,2025-03-19,Complete Response,14.0
+T400872,P100872,Chemotherapy,2023-12-07,2024-03-22,Progressive Disease,37.9
+T400873,P100873,mRNA Vaccine Trial,2021-12-17,2022-06-07,Stable Disease,9.3
+T400874,P100874,Immunotherapy,2021-07-24,2021-12-18,Stable Disease,9.7
+T400875,P100875,Surgery,2021-04-17,2022-02-13,Stable Disease,7.4
+T400876,P100876,Radiotherapy,2021-01-08,2021-05-08,Progressive Disease,30.4
+T400877,P100877,Chemotherapy,2024-02-15,2024-07-16,Progressive Disease,26.9
+T400878,P100878,Chemotherapy,2020-11-09,2021-05-30,Complete Response,42.6
+T400879,P100879,Chemotherapy,2025-01-28,2025-08-13,Progressive Disease,4.4
+T400880,P100880,Immunotherapy,2021-06-25,2021-10-24,Stable Disease,12.0
+T400881,P100881,Surgery,2020-06-20,2020-10-23,Stable Disease,6.8
+T400882,P100882,Chemotherapy,2024-03-10,2025-02-09,Partial Response,141.8
+T400883,P100883,Surgery,2024-08-25,2024-10-13,Complete Response,10.4
+T400884,P100884,Surgery,2023-12-17,2024-08-30,Stable Disease,51.2
+T400885,P100885,Surgery,2021-01-17,2021-12-05,Progressive Disease,15.3
+T400886,P100886,Chemotherapy,2024-04-10,2025-02-01,Progressive Disease,34.3
+T400887,P100887,Surgery,2025-06-13,2025-10-27,Stable Disease,128.8
+T400888,P100888,Immunotherapy,2023-09-07,2023-11-30,Complete Response,73.2
+T400889,P100889,Targeted Therapy,2021-01-04,2021-08-07,Progressive Disease,164.5
+T400890,P100890,Radiotherapy,2021-07-14,2022-08-11,Stable Disease,19.6
+T400891,P100891,Chemotherapy,2025-05-07,2025-10-21,Progressive Disease,37.4
+T400892,P100892,Surgery,2021-02-09,2022-02-13,Stable Disease,10.2
+T400893,P100893,Chemotherapy,2024-04-19,2025-05-06,Complete Response,17.3
+T400894,P100894,Surgery,2025-05-16,2025-07-01,Stable Disease,16.6
+T400895,P100895,Immunotherapy,2024-04-25,2025-01-23,Progressive Disease,8.9
+T400896,P100896,Surgery,2025-04-19,2025-06-23,Complete Response,113.7
+T400897,P100897,Chemotherapy,2023-07-17,2024-06-08,Progressive Disease,10.7
+T400898,P100898,Chemotherapy,2023-11-06,2024-08-19,Stable Disease,166.5
+T400899,P100899,Surgery,2025-04-05,2025-11-20,Progressive Disease,3.5
+T400900,P100900,Immunotherapy,2023-03-06,2024-02-22,Partial Response,11.0
+T400901,P100901,Radiotherapy,2025-01-26,2025-08-11,Stable Disease,31.0
+T400902,P100902,Surgery,2025-02-22,2025-11-23,Progressive Disease,89.0
+T400903,P100903,Immunotherapy,2021-11-21,2022-11-28,Stable Disease,17.6
+T400904,P100904,Targeted Therapy,2023-01-06,2023-09-06,Partial Response,18.1
+T400905,P100905,Radiotherapy,2025-04-19,2026-04-29,Progressive Disease,89.2
+T400906,P100906,Combination,2021-09-01,2022-06-03,Progressive Disease,6.3
+T400907,P100907,Chemotherapy,2024-12-31,2025-08-08,Partial Response,59.6
+T400908,P100908,Chemotherapy,2023-08-15,2024-01-28,Progressive Disease,3.4
+T400909,P100909,Surgery,2021-05-11,2022-02-17,Stable Disease,7.5
+T400910,P100910,Surgery,2024-04-09,2024-12-11,Stable Disease,44.8
+T400911,P100911,Surgery,2020-11-15,2021-09-04,Progressive Disease,25.2
+T400912,P100912,Radiotherapy,2023-12-05,2024-03-19,Partial Response,35.6
+T400913,P100913,Immunotherapy,2025-08-02,2026-03-15,Stable Disease,20.3
+T400914,P100914,Radiotherapy,2020-10-22,2021-11-25,Stable Disease,34.1
+T400915,P100915,Radiotherapy,2021-04-23,2022-03-24,Progressive Disease,14.2
+T400916,P100916,Surgery,2022-02-08,2022-04-08,Progressive Disease,56.8
+T400917,P100917,Radiotherapy,2020-11-11,2021-09-02,Partial Response,17.8
+T400918,P100918,Immunotherapy,2021-03-06,2022-02-06,Progressive Disease,18.6
+T400919,P100919,Radiotherapy,2021-07-12,2022-05-18,Stable Disease,6.9
+T400920,P100920,Combination,2022-09-17,2023-08-05,Progressive Disease,141.8
+T400921,P100921,Chemotherapy,2023-11-06,2023-11-14,Progressive Disease,14.7
+T400922,P100922,Combination,2025-04-08,2026-02-23,Partial Response,146.9
+T400923,P100923,Surgery,2021-04-06,2021-04-13,Partial Response,4.0
+T400924,P100924,mRNA Vaccine Trial,2023-07-23,2023-10-08,Stable Disease,6.9
+T400925,P100925,Chemotherapy,2020-10-14,2021-06-19,Partial Response,9.8
+T400926,P100926,Chemotherapy,2023-11-22,2024-03-31,Stable Disease,19.4
+T400927,P100927,Radiotherapy,2020-12-12,2021-12-15,Stable Disease,14.8
+T400928,P100928,Radiotherapy,2024-05-07,2024-10-23,Stable Disease,46.1
+T400929,P100929,mRNA Vaccine Trial,2024-07-31,2024-11-24,Progressive Disease,17.0
+T400930,P100930,Combination,2024-07-25,2024-12-21,Progressive Disease,3.7
+T400931,P100931,Immunotherapy,2022-02-07,2022-09-28,Stable Disease,10.6
+T400932,P100932,Immunotherapy,2021-10-08,2021-12-15,Stable Disease,52.5
+T400933,P100933,Chemotherapy,2021-11-15,2022-02-21,Complete Response,47.8
+T400934,P100934,Radiotherapy,2020-06-19,2021-06-04,Partial Response,25.5
+T400935,P100935,Chemotherapy,2022-03-01,2022-12-19,Progressive Disease,17.4
+T400936,P100936,Combination,2024-12-25,2025-07-15,Stable Disease,56.0
+T400937,P100937,Combination,2024-01-16,2024-05-02,Stable Disease,115.4
+T400938,P100938,Chemotherapy,2024-04-17,2025-02-18,Partial Response,5.2
+T400939,P100939,Surgery,2021-11-13,2022-03-29,Stable Disease,5.7
+T400940,P100940,Surgery,2025-04-21,2025-05-15,Stable Disease,122.0
+T400941,P100941,Targeted Therapy,2020-08-15,2020-09-13,Progressive Disease,15.3
+T400942,P100942,Immunotherapy,2022-12-29,2023-11-21,Complete Response,106.8
+T400943,P100943,Chemotherapy,2024-01-11,2025-01-19,Progressive Disease,19.4
+T400944,P100944,Combination,2024-10-10,2025-06-06,Stable Disease,1.0
+T400945,P100945,Chemotherapy,2025-05-30,2026-05-03,Progressive Disease,15.7
+T400946,P100946,Immunotherapy,2022-12-21,2023-07-05,Complete Response,1.0
+T400947,P100947,mRNA Vaccine Trial,2022-12-08,2023-12-11,Progressive Disease,19.2
+T400948,P100948,mRNA Vaccine Trial,2021-02-07,2021-03-28,Stable Disease,9.7
+T400949,P100949,Immunotherapy,2024-03-17,2024-11-06,Stable Disease,125.8
+T400950,P100950,Surgery,2022-01-09,2022-10-21,Partial Response,1.4
+T400951,P100951,mRNA Vaccine Trial,2022-05-13,2023-03-30,Progressive Disease,20.3
+T400952,P100952,Radiotherapy,2022-08-08,2023-01-24,Progressive Disease,1.0
+T400953,P100953,Surgery,2022-03-09,2023-03-20,Progressive Disease,14.4
+T400954,P100954,Chemotherapy,2023-03-23,2024-03-04,Stable Disease,11.2
+T400955,P100955,Immunotherapy,2025-07-04,2025-08-11,Complete Response,13.8
+T400956,P100956,Immunotherapy,2021-09-06,2021-11-27,Progressive Disease,20.0
+T400957,P100957,Surgery,2020-02-11,2020-03-11,Partial Response,14.6
+T400958,P100958,Surgery,2024-09-11,2025-04-15,Partial Response,52.8
+T400959,P100959,Immunotherapy,2021-01-04,2021-01-12,Partial Response,31.7
+T400960,P100960,Chemotherapy,2022-01-28,2022-07-28,Stable Disease,20.1
+T400961,P100961,Immunotherapy,2023-03-19,2024-01-09,Progressive Disease,12.2
+T400962,P100962,Surgery,2024-08-08,2024-09-30,Partial Response,62.4
+T400963,P100963,Surgery,2023-04-15,2024-02-18,Stable Disease,47.7
+T400964,P100964,Surgery,2023-04-05,2023-04-17,Partial Response,7.8
+T400965,P100965,Radiotherapy,2024-12-11,2025-12-23,Progressive Disease,23.1
+T400966,P100966,Radiotherapy,2023-10-11,2024-09-10,Progressive Disease,22.2
+T400967,P100967,mRNA Vaccine Trial,2021-11-02,2022-11-30,Progressive Disease,93.2
+T400968,P100968,Radiotherapy,2022-11-18,2023-11-21,Partial Response,64.9
+T400969,P100969,Radiotherapy,2025-07-17,2026-01-01,Stable Disease,71.8
+T400970,P100970,Immunotherapy,2021-09-02,2021-12-20,Partial Response,46.8
+T400971,P100971,Radiotherapy,2024-04-19,2024-12-07,Partial Response,11.0
+T400972,P100972,Chemotherapy,2022-07-15,2023-01-24,Partial Response,19.2
+T400973,P100973,Targeted Therapy,2023-09-25,2024-08-20,Progressive Disease,69.0
+T400974,P100974,Surgery,2021-07-18,2022-05-20,Stable Disease,86.9
+T400975,P100975,Chemotherapy,2025-03-20,2026-03-21,Stable Disease,96.9
+T400976,P100976,Targeted Therapy,2022-01-26,2022-06-29,Partial Response,86.0
+T400977,P100977,Targeted Therapy,2021-10-18,2022-08-03,Progressive Disease,102.0
+T400978,P100978,Immunotherapy,2023-07-05,2024-03-30,Progressive Disease,116.2
+T400979,P100979,Radiotherapy,2023-12-03,2024-04-21,Complete Response,12.3
+T400980,P100980,Surgery,2020-06-02,2021-04-28,Partial Response,16.9
+T400981,P100981,Surgery,2020-03-06,2020-08-25,Stable Disease,21.4
+T400982,P100982,Radiotherapy,2021-04-10,2021-05-04,Partial Response,79.0
+T400983,P100983,Surgery,2023-02-19,2023-03-02,Partial Response,17.9
+T400984,P100984,Chemotherapy,2023-10-21,2024-09-23,Progressive Disease,3.0
+T400985,P100985,Surgery,2021-06-29,2021-12-09,Partial Response,15.2
+T400986,P100986,Chemotherapy,2021-08-26,2021-09-13,Stable Disease,1.1
+T400987,P100987,Targeted Therapy,2023-10-21,2024-08-17,Progressive Disease,48.7
+T400988,P100988,Immunotherapy,2023-09-21,2024-01-30,Partial Response,6.9
+T400989,P100989,Radiotherapy,2025-02-15,2025-10-27,Progressive Disease,29.0
+T400990,P100990,Radiotherapy,2022-12-20,2023-04-25,Progressive Disease,76.6
+T400991,P100991,Combination,2023-01-21,2023-03-24,Stable Disease,19.4
+T400992,P100992,Immunotherapy,2022-01-16,2022-08-16,Stable Disease,19.4
+T400993,P100993,Surgery,2022-11-02,2023-04-11,Progressive Disease,11.5
+T400994,P100994,Combination,2024-09-24,2025-06-26,Partial Response,8.6
+T400995,P100995,Combination,2022-05-02,2022-07-19,Partial Response,9.9
+T400996,P100996,Radiotherapy,2023-06-11,2023-08-03,Partial Response,10.2
+T400997,P100997,Immunotherapy,2021-11-21,2022-05-24,Stable Disease,38.5
+T400998,P100998,Surgery,2020-10-10,2021-09-19,Partial Response,65.9
+T400999,P100999,mRNA Vaccine Trial,2021-10-13,2022-03-26,Complete Response,74.4
